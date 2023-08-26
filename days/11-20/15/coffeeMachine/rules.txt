@@ -1,0 +1,4 @@
+1. Make 3 hot flavours:
+    Espresso
+    Latte
+    Cappuccino

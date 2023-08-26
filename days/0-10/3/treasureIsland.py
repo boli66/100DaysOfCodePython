@@ -21,6 +21,6 @@ if(In == "red"):
 elif(In == "blue"):
     print("You enter a room full of beasts. Game Over.")
     sys.exit()
-elif(In == "red"):
+elif(In == "yellow"):
     print("You found the treasure. You Win!")
     sys.exit()

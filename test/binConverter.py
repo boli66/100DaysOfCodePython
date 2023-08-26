@@ -1,9 +1,9 @@
-to = input("Binary to decimal or Decimal to binary 1/2: ")
+to = input("Binary to decimal or Decimal to binary 16/2: ")
 def toDecimal(bin):
     add = 1
     result = 0
     for i in range(0,len(bin)):
-        if bin[i] == "1":
+        if bin[i] == "16":
             result += add
         add *= 2
     return result
@@ -14,7 +14,7 @@ def toBinary(dec):
         dec = dec / 2
     return bin
 
-if to == "1":
+if to == "16":
     bin = input("What is the binary number: ")
     print(toDecimal(bin))
 
