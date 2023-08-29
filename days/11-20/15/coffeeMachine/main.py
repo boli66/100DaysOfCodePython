@@ -4,6 +4,7 @@ import sys
 import time
 import data
 import machine
+from libraries.FileIO.hson import hson
 
 while True:
     coffees = "espresso/latte/cappuccino"
@@ -12,7 +13,8 @@ while True:
     # print(f"What would you like? ({coffees}): {coffee}")
 
     # Checks if the user wants to see the resources the machine has left
-    if(coffee == "off"):
+    if(coffee.lower() in ["o", "of", "off"]):
+        hson("data.txt", data.resources).save()
         sys.exit()
     if(coffee == "report"):
         def c(r):

@@ -1,3 +1,5 @@
+from libraries.FileIO import hson
+
 flavours ={
     "espresso": {
         "ingredients": {
@@ -24,17 +26,7 @@ flavours ={
         "price": 3.0
     }
 }
-resources = {
-    "water": 3000,
-    "milk": 2000,
-    "coffee": 300,
-    "money": 0,
-    "max": {
-        "water": 3000,
-        "milk": 2000,
-        "coffee": 300
-    }
-}
+resources = hson.hson("data.txt",{}).get()
 coins = {
     "quarter": 0.25,
     "dime": 0.10,

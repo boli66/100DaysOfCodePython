@@ -1,0 +1,1 @@
+{'water': 2950, 'milk': 2000, 'coffee': 282, 'money': 1.5, 'max': {'water': 3000, 'milk': 2000, 'coffee': 300}}

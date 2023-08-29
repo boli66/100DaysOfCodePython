@@ -1,4 +1,4 @@
-from lib import l
+from libraries import l
 scores= input("Enter the students scores seperated py spaces: ").split(" ")
 scores = l.intl.list(scores)
 names = input("Enter the students names in the order you entered their points: ").split(" ")

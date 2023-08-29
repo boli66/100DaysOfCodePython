@@ -1,5 +1,5 @@
 import assets
-from lib import ASCII
+from libraries import ASCII
 ASCII.printLogo("Logo.txt")
 def encrypt(message, shift):
     message = str(message)
