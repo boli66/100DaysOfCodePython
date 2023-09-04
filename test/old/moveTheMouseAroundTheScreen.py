@@ -1,4 +1,4 @@
-import time as T
+import Time as T
 
 import pyautogui as py
 xt= py.size().width

@@ -1,6 +1,6 @@
 import json
 
-from libraries.FileIO import file
+import file
 
 class hson:
     def save(self):

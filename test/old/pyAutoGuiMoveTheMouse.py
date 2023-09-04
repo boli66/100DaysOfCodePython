@@ -1,4 +1,4 @@
-import time
+import Time
 
 import pyautogui as py
 

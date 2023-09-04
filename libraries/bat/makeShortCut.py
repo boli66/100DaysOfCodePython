@@ -1,6 +1,7 @@
 # Input
 import os
 from libraries.FileIO import terminal as t
+
 os.system("cd C:/src/python/TutorialPyCharm/libraries/bat/")
 path = f"{os.path.dirname(__file__)}/"
 from libraries.FileIO import terminal, file, hson
@@ -18,6 +19,7 @@ else:
     filePath = input("What is the path of the python file: ")
     filename = input("What is the name of the python file: ")
     batFileName = input("What do you want to call the batchFile: ")
+
     # Make the file
     # file = open(f"{OUTPATH}{batFileName}.bat", "w")
     path = f"{OUTPATH}{batFileName}.bat"

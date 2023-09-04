@@ -2,7 +2,7 @@ import turtle
 
 t = turtle.Turtle()
 screen = turtle.Screen()
-
+print(f"{screen.canvheight}/{screen.window_height()}")
 turn = 15
 move = 15
 

@@ -1,0 +1,28 @@
+"""def __check(self, player, width):
+        collided = False
+        height = Screen().window_height()
+        if not (player > -width / 2 and player < width / 2):
+            collided = True
+        return collided
+
+    def score(self):
+        return self.__check(self.xcor(), Screen().window_width())
+
+    def collision(self, paddles):
+        collided = ""
+        collided = "wall" if self.__check(self.ycor(), Screen().window_height()) else ""
+        if not(bool(collided)):
+            for i, obj in enumerate(paddles):
+                if(self.distance(obj)< 50):
+                    collided = "paddle"
+
+        return collided
+
+    def update(self, paddles: list[Paddle]):
+        self.fd(10)
+        s = self.collision(paddles)
+        if(s):
+            self.bounce(s)
+
+    def bounce(self, type):
+        new_y = """

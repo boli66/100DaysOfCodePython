@@ -1,0 +1,7 @@
+{
+  "moveSpeed": 0.1,
+  "startLength": 3,
+
+
+  "highscoreFile": "highscore.txt"
+}
