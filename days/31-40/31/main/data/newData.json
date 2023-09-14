@@ -1,0 +1,6654 @@
+[
+    {
+        "English": "I",
+        "Swedish": "jag"
+    },
+    {
+        "English": "the",
+        "Swedish": "de"
+    },
+    {
+        "English": "is",
+        "Swedish": "\u00e4r"
+    },
+    {
+        "English": "you",
+        "Swedish": "du"
+    },
+    {
+        "English": "to",
+        "Swedish": "till"
+    },
+    {
+        "English": "not",
+        "Swedish": "ej"
+    },
+    {
+        "English": "one",
+        "Swedish": "ena"
+    },
+    {
+        "English": "and",
+        "Swedish": "och"
+    },
+    {
+        "English": "have",
+        "Swedish": "ha"
+    },
+    {
+        "English": "we",
+        "Swedish": "vi"
+    },
+    {
+        "English": "on",
+        "Swedish": "p\u00e5"
+    },
+    {
+        "English": "in",
+        "Swedish": "inne"
+    },
+    {
+        "English": "for",
+        "Swedish": "f\u00f6r"
+    },
+    {
+        "English": "he",
+        "Swedish": "han"
+    },
+    {
+        "English": "with",
+        "Swedish": "med"
+    },
+    {
+        "English": "as",
+        "Swedish": "som"
+    },
+    {
+        "English": "if",
+        "Swedish": "om"
+    },
+    {
+        "English": "where",
+        "Swedish": "vart"
+    },
+    {
+        "English": "What",
+        "Swedish": "vad"
+    },
+    {
+        "English": "me",
+        "Swedish": "mig"
+    },
+    {
+        "English": "here",
+        "Swedish": "hit"
+    },
+    {
+        "English": "so",
+        "Swedish": "s\u00e5"
+    },
+    {
+        "English": "can",
+        "Swedish": "orkar"
+    },
+    {
+        "English": "but",
+        "Swedish": "men"
+    },
+    {
+        "English": "will",
+        "Swedish": "will"
+    },
+    {
+        "English": "of",
+        "Swedish": "of"
+    },
+    {
+        "English": "she",
+        "Swedish": "hon"
+    },
+    {
+        "English": "wants",
+        "Swedish": "vill"
+    },
+    {
+        "English": "yes",
+        "Swedish": "jo"
+    },
+    {
+        "English": "know",
+        "Swedish": "vet"
+    },
+    {
+        "English": "now",
+        "Swedish": "nu"
+    },
+    {
+        "English": "No",
+        "Swedish": "ingen"
+    },
+    {
+        "English": "only",
+        "Swedish": "endast"
+    },
+    {
+        "English": "how",
+        "Swedish": "hur"
+    },
+    {
+        "English": "my",
+        "Swedish": "mitt"
+    },
+    {
+        "English": "comes",
+        "Swedish": "kommer"
+    },
+    {
+        "English": "must",
+        "Swedish": "m\u00e5ste"
+    },
+    {
+        "English": "him",
+        "Swedish": "honom"
+    },
+    {
+        "English": "make",
+        "Swedish": "g\u00f6r"
+    },
+    {
+        "English": "your",
+        "Swedish": "ditt"
+    },
+    {
+        "English": "would",
+        "Swedish": "skulle"
+    },
+    {
+        "English": "when",
+        "Swedish": "n\u00e4r"
+    },
+    {
+        "English": "then",
+        "Swedish": "d\u00e5"
+    },
+    {
+        "English": "Come",
+        "Swedish": "kom"
+    },
+    {
+        "English": "Good",
+        "Swedish": "gode"
+    },
+    {
+        "English": "get",
+        "Swedish": "skaffa"
+    },
+    {
+        "English": "MAN",
+        "Swedish": "man"
+    },
+    {
+        "English": "be",
+        "Swedish": "finnas"
+    },
+    {
+        "English": "U.S",
+        "Swedish": "oss"
+    },
+    {
+        "English": "out",
+        "Swedish": "ute"
+    },
+    {
+        "English": "take",
+        "Swedish": "fatta"
+    },
+    {
+        "English": "do",
+        "Swedish": "g\u00f6ra"
+    },
+    {
+        "English": "okay",
+        "Swedish": "okej"
+    },
+    {
+        "English": "or",
+        "Swedish": "eller"
+    },
+    {
+        "English": "had",
+        "Swedish": "haft"
+    },
+    {
+        "English": "from",
+        "Swedish": "ifr\u00e5n"
+    },
+    {
+        "English": "why",
+        "Swedish": "varf\u00f6r"
+    },
+    {
+        "English": "them",
+        "Swedish": "dem"
+    },
+    {
+        "English": "all",
+        "Swedish": "allihop"
+    },
+    {
+        "English": "think",
+        "Swedish": "fundera"
+    },
+    {
+        "English": "her",
+        "Swedish": "hennes"
+    },
+    {
+        "English": "up",
+        "Swedish": "uppe"
+    },
+    {
+        "English": "said",
+        "Swedish": "sade"
+    },
+    {
+        "English": "thanks",
+        "Swedish": "tack"
+    },
+    {
+        "English": "go",
+        "Swedish": "\u00e5ka"
+    },
+    {
+        "English": "again",
+        "Swedish": "igen"
+    },
+    {
+        "English": "Something",
+        "Swedish": "n\u00e5nting"
+    },
+    {
+        "English": "see",
+        "Swedish": "se"
+    },
+    {
+        "English": "Going",
+        "Swedish": "g\u00e5r"
+    },
+    {
+        "English": "very",
+        "Swedish": "v\u00e4ldigt"
+    },
+    {
+        "English": "Hello",
+        "Swedish": "hejsan"
+    },
+    {
+        "English": "who",
+        "Swedish": "vem"
+    },
+    {
+        "English": "perhaps",
+        "Swedish": "kanske"
+    },
+    {
+        "English": "a little",
+        "Swedish": "lite"
+    },
+    {
+        "English": "need",
+        "Swedish": "beh\u00f6va"
+    },
+    {
+        "English": "looks",
+        "Swedish": "ser"
+    },
+    {
+        "English": "Never",
+        "Swedish": "aldrig"
+    },
+    {
+        "English": "Available",
+        "Swedish": "finns"
+    },
+    {
+        "English": "than",
+        "Swedish": "\u00e4n"
+    },
+    {
+        "English": "nothing",
+        "Swedish": "ingenting"
+    },
+    {
+        "English": "after",
+        "Swedish": "efter"
+    },
+    {
+        "English": "becomes",
+        "Swedish": "blir"
+    },
+    {
+        "English": "Well",
+        "Swedish": "tja"
+    },
+    {
+        "English": "his",
+        "Swedish": "sitt"
+    },
+    {
+        "English": "late",
+        "Swedish": "sent"
+    },
+    {
+        "English": "Become",
+        "Swedish": "bli"
+    },
+    {
+        "English": "did",
+        "Swedish": "gjorde"
+    },
+    {
+        "English": "two",
+        "Swedish": "tv\u00e5"
+    },
+    {
+        "English": "Someone",
+        "Swedish": "n\u00e5n"
+    },
+    {
+        "English": "back",
+        "Swedish": "tillbaka"
+    },
+    {
+        "English": "takes",
+        "Swedish": "tar"
+    },
+    {
+        "English": "more",
+        "Swedish": "mer"
+    },
+    {
+        "English": "something",
+        "Swedish": "n\u00e5got"
+    },
+    {
+        "English": "over",
+        "Swedish": "\u00f6ver"
+    },
+    {
+        "English": "says",
+        "Swedish": "s\u00e4ger"
+    },
+    {
+        "English": "got",
+        "Swedish": "f\u00e5tt"
+    },
+    {
+        "English": "give",
+        "Swedish": "ge"
+    },
+    {
+        "English": "well",
+        "Swedish": "v\u00e4l"
+    },
+    {
+        "English": "also",
+        "Swedish": "\u00e4ven"
+    },
+    {
+        "English": "mine",
+        "Swedish": "mina"
+    },
+    {
+        "English": "at",
+        "Swedish": "hos"
+    },
+    {
+        "English": "probably",
+        "Swedish": "troligen"
+    },
+    {
+        "English": "Damn",
+        "Swedish": "j\u00e4klar"
+    },
+    {
+        "English": "could",
+        "Swedish": "kunde"
+    },
+    {
+        "English": "year",
+        "Swedish": "\u00e5rs"
+    },
+    {
+        "English": "say",
+        "Swedish": "s\u00e4g"
+    },
+    {
+        "English": "any",
+        "Swedish": "n\u00e5gon"
+    },
+    {
+        "English": "mother",
+        "Swedish": "mor"
+    },
+    {
+        "English": "been",
+        "Swedish": "varit"
+    },
+    {
+        "English": "down",
+        "Swedish": "ned"
+    },
+    {
+        "English": "Wanted",
+        "Swedish": "velat"
+    },
+    {
+        "English": "wait",
+        "Swedish": "v\u00e4nta"
+    },
+    {
+        "English": "against",
+        "Swedish": "emot"
+    },
+    {
+        "English": "dad",
+        "Swedish": "pappa"
+    },
+    {
+        "English": "Other",
+        "Swedish": "annat"
+    },
+    {
+        "English": "should",
+        "Swedish": "b\u00f6r"
+    },
+    {
+        "English": "feel",
+        "Swedish": "m\u00e5"
+    },
+    {
+        "English": "Right",
+        "Swedish": "h\u00f6ger"
+    },
+    {
+        "English": "a few",
+        "Swedish": "n\u00e5gra"
+    },
+    {
+        "English": "whole",
+        "Swedish": "hel"
+    },
+    {
+        "English": "SAW",
+        "Swedish": "s\u00e5g"
+    },
+    {
+        "English": "talk",
+        "Swedish": "prata"
+    },
+    {
+        "English": "come",
+        "Swedish": "kommit"
+    },
+    {
+        "English": "Let",
+        "Swedish": "l\u00e5t"
+    },
+    {
+        "English": "this",
+        "Swedish": "detta"
+    },
+    {
+        "English": "done",
+        "Swedish": "klara"
+    },
+    {
+        "English": "became",
+        "Swedish": "blev"
+    },
+    {
+        "English": "self",
+        "Swedish": "sj\u00e4lv"
+    },
+    {
+        "English": "took",
+        "Swedish": "tog"
+    },
+    {
+        "English": "always",
+        "Swedish": "alltid"
+    },
+    {
+        "English": "our",
+        "Swedish": "v\u00e5r"
+    },
+    {
+        "English": "without",
+        "Swedish": "utan"
+    },
+    {
+        "English": "wrong",
+        "Swedish": "fel"
+    },
+    {
+        "English": "Home",
+        "Swedish": "hem"
+    },
+    {
+        "English": "Mr.",
+        "Swedish": "herr"
+    },
+    {
+        "English": "day",
+        "Swedish": "dag"
+    },
+    {
+        "English": "Dina",
+        "Swedish": "dina"
+    },
+    {
+        "English": "life",
+        "Swedish": "liv"
+    },
+    {
+        "English": "mean",
+        "Swedish": "betyder"
+    },
+    {
+        "English": "really",
+        "Swedish": "riktigt"
+    },
+    {
+        "English": "Certainly",
+        "Swedish": "best\u00e4mt"
+    },
+    {
+        "English": "VA",
+        "Swedish": "va"
+    },
+    {
+        "English": "understands",
+        "Swedish": "f\u00f6rst\u00e5r"
+    },
+    {
+        "English": "its",
+        "Swedish": "dess"
+    },
+    {
+        "English": "time",
+        "Swedish": "tid"
+    },
+    {
+        "English": "thought",
+        "Swedish": "tanken"
+    },
+    {
+        "English": "went",
+        "Swedish": "\u00e5kte"
+    },
+    {
+        "English": "Love",
+        "Swedish": "k\u00e4rlek"
+    },
+    {
+        "English": "way",
+        "Swedish": "vis"
+    },
+    {
+        "English": "tell",
+        "Swedish": "ber\u00e4tta"
+    },
+    {
+        "English": "Thinking",
+        "Swedish": "t\u00e4nker"
+    },
+    {
+        "English": "kill",
+        "Swedish": "d\u00f6da"
+    },
+    {
+        "English": "Know",
+        "Swedish": "vetat"
+    },
+    {
+        "English": "three",
+        "Swedish": "tre"
+    },
+    {
+        "English": "many",
+        "Swedish": "m\u00e5nga"
+    },
+    {
+        "English": "people",
+        "Swedish": "personer"
+    },
+    {
+        "English": "stop",
+        "Swedish": "stoppa"
+    },
+    {
+        "English": "just",
+        "Swedish": "nyss"
+    },
+    {
+        "English": "no",
+        "Swedish": "inga"
+    },
+    {
+        "English": "look",
+        "Swedish": "titt"
+    },
+    {
+        "English": "before",
+        "Swedish": "f\u00f6rr"
+    },
+    {
+        "English": "knew",
+        "Swedish": "visste"
+    },
+    {
+        "English": "Like",
+        "Swedish": "s\u00e5nt"
+    },
+    {
+        "English": "children",
+        "Swedish": "barn"
+    },
+    {
+        "English": "better",
+        "Swedish": "b\u00e4ttre"
+    },
+    {
+        "English": "help",
+        "Swedish": "hj\u00e4lp"
+    },
+    {
+        "English": "during",
+        "Swedish": "under"
+    },
+    {
+        "English": "sorry",
+        "Swedish": "ledsen"
+    },
+    {
+        "English": "walk",
+        "Swedish": "g\u00e5ng"
+    },
+    {
+        "English": "away",
+        "Swedish": "undan"
+    },
+    {
+        "English": "happens",
+        "Swedish": "sker"
+    },
+    {
+        "English": "completely",
+        "Swedish": "helt"
+    },
+    {
+        "English": "first",
+        "Swedish": "f\u00f6rst"
+    },
+    {
+        "English": "death",
+        "Swedish": "d\u00f6d"
+    },
+    {
+        "English": "hold",
+        "Swedish": "h\u00e5ll"
+    },
+    {
+        "English": "long",
+        "Swedish": "l\u00e5ng"
+    },
+    {
+        "English": "hear",
+        "Swedish": "h\u00f6ra"
+    },
+    {
+        "English": "seen",
+        "Swedish": "ses"
+    },
+    {
+        "English": "please",
+        "Swedish": "sn\u00e4lla"
+    },
+    {
+        "English": "things",
+        "Swedish": "saker"
+    },
+    {
+        "English": "find",
+        "Swedish": "hitta"
+    },
+    {
+        "English": "still",
+        "Swedish": "stilla"
+    },
+    {
+        "English": "stands",
+        "Swedish": "st\u00e5r"
+    },
+    {
+        "English": "money",
+        "Swedish": "pengar"
+    },
+    {
+        "English": "good",
+        "Swedish": "duktig"
+    },
+    {
+        "English": "same",
+        "Swedish": "likadant"
+    },
+    {
+        "English": "Sir",
+        "Swedish": "sir"
+    },
+    {
+        "English": "even",
+        "Swedish": "ens"
+    },
+    {
+        "English": "excuse",
+        "Swedish": "urs\u00e4kt"
+    },
+    {
+        "English": "called",
+        "Swedish": "kallade"
+    },
+    {
+        "English": "holding",
+        "Swedish": "h\u00e5ller"
+    },
+    {
+        "English": "which",
+        "Swedish": "vilka"
+    },
+    {
+        "English": "God",
+        "Swedish": "guds"
+    },
+    {
+        "English": "ours",
+        "Swedish": "v\u00e5rt"
+    },
+    {
+        "English": "hand",
+        "Swedish": "hand"
+    },
+    {
+        "English": "Feel",
+        "Swedish": "m\u00e5r"
+    },
+    {
+        "English": "happened",
+        "Swedish": "h\u00e4nde"
+    },
+    {
+        "English": "problem",
+        "Swedish": "problem"
+    },
+    {
+        "English": "Friend",
+        "Swedish": "v\u00e4n"
+    },
+    {
+        "English": "ger",
+        "Swedish": "ger"
+    },
+    {
+        "English": "stay",
+        "Swedish": "bo"
+    },
+    {
+        "English": "Thing",
+        "Swedish": "sak"
+    },
+    {
+        "English": "judgment",
+        "Swedish": "dom"
+    },
+    {
+        "English": "trying",
+        "Swedish": "f\u00f6rs\u00f6ker"
+    },
+    {
+        "English": "allows",
+        "Swedish": "l\u00e5ter"
+    },
+    {
+        "English": "Father",
+        "Swedish": "fars"
+    },
+    {
+        "English": "left",
+        "Swedish": "l\u00e4mnat"
+    },
+    {
+        "English": "already",
+        "Swedish": "redan"
+    },
+    {
+        "English": "Further",
+        "Swedish": "l\u00e4ngre"
+    },
+    {
+        "English": "fucking",
+        "Swedish": "j\u00e4vla"
+    },
+    {
+        "English": "hell",
+        "Swedish": "helvete"
+    },
+    {
+        "English": "Talking",
+        "Swedish": "pratar"
+    },
+    {
+        "English": "Oh",
+        "Swedish": "oh"
+    },
+    {
+        "English": "Oh my God",
+        "Swedish": "herregud"
+    },
+    {
+        "English": "there",
+        "Swedish": "dit"
+    },
+    {
+        "English": "Evening",
+        "Swedish": "kv\u00e4ll"
+    },
+    {
+        "English": "morning",
+        "Swedish": "morgon"
+    },
+    {
+        "English": "soon",
+        "Swedish": "snart"
+    },
+    {
+        "English": "question",
+        "Swedish": "fr\u00e5ga"
+    },
+    {
+        "English": "the time",
+        "Swedish": "tiden"
+    },
+    {
+        "English": "drive",
+        "Swedish": "k\u00f6ra"
+    },
+    {
+        "English": "their",
+        "Swedish": "sina"
+    },
+    {
+        "English": "name",
+        "Swedish": "namn"
+    },
+    {
+        "English": "seems",
+        "Swedish": "tycks"
+    },
+    {
+        "English": "believe",
+        "Swedish": "tro"
+    },
+    {
+        "English": "each",
+        "Swedish": "varje"
+    },
+    {
+        "English": "forward",
+        "Swedish": "fram"
+    },
+    {
+        "English": "top",
+        "Swedish": "toppen"
+    },
+    {
+        "English": "wife",
+        "Swedish": "hustru"
+    },
+    {
+        "English": "hit",
+        "Swedish": "tr\u00e4ffa"
+    },
+    {
+        "English": "Safe",
+        "Swedish": "s\u00e4kert"
+    },
+    {
+        "English": "final",
+        "Swedish": "slut"
+    },
+    {
+        "English": "since",
+        "Swedish": "eftersom"
+    },
+    {
+        "English": "because",
+        "Swedish": "d\u00e4rf\u00f6r"
+    },
+    {
+        "English": "show",
+        "Swedish": "visa"
+    },
+    {
+        "English": "sure",
+        "Swedish": "s\u00e4ker"
+    },
+    {
+        "English": "leave",
+        "Swedish": "l\u00e4mna"
+    },
+    {
+        "English": "Starts",
+        "Swedish": "b\u00f6rjar"
+    },
+    {
+        "English": "the way",
+        "Swedish": "s\u00e4ttet"
+    },
+    {
+        "English": "by",
+        "Swedish": "genom"
+    },
+    {
+        "English": "gave",
+        "Swedish": "gav"
+    },
+    {
+        "English": "From here",
+        "Swedish": "h\u00e4rifr\u00e5n"
+    },
+    {
+        "English": "Job",
+        "Swedish": "jobb"
+    },
+    {
+        "English": "keep",
+        "Swedish": "h\u00e5lla"
+    },
+    {
+        "English": "son",
+        "Swedish": "son"
+    },
+    {
+        "English": "Big",
+        "Swedish": "big"
+    },
+    {
+        "English": "Friends",
+        "Swedish": "v\u00e4nner"
+    },
+    {
+        "English": "found",
+        "Swedish": "hittades"
+    },
+    {
+        "English": "hope",
+        "Swedish": "hopp"
+    },
+    {
+        "English": "heard",
+        "Swedish": "h\u00f6rt"
+    },
+    {
+        "English": "check",
+        "Swedish": "kolla"
+    },
+    {
+        "English": "Remember",
+        "Swedish": "minnas"
+    },
+    {
+        "English": "Together",
+        "Swedish": "samman"
+    },
+    {
+        "English": "afraid",
+        "Swedish": "r\u00e4dd"
+    },
+    {
+        "English": "last",
+        "Swedish": "senast"
+    },
+    {
+        "English": "era",
+        "Swedish": "era"
+    },
+    {
+        "English": "six",
+        "Swedish": "sex"
+    },
+    {
+        "English": "be able to",
+        "Swedish": "kunna"
+    },
+    {
+        "English": "part",
+        "Swedish": "delen"
+    },
+    {
+        "English": "Next",
+        "Swedish": "n\u00e4sta"
+    },
+    {
+        "English": "five",
+        "Swedish": "fem"
+    },
+    {
+        "English": "Life",
+        "Swedish": "livet"
+    },
+    {
+        "English": "New",
+        "Swedish": "new"
+    },
+    {
+        "English": "The car",
+        "Swedish": "bilen"
+    },
+    {
+        "English": "die",
+        "Swedish": "d\u00f6"
+    },
+    {
+        "English": "Can handle",
+        "Swedish": "klarar"
+    },
+    {
+        "English": "until",
+        "Swedish": "tills"
+    },
+    {
+        "English": "small",
+        "Swedish": "litet"
+    },
+    {
+        "English": "tag",
+        "Swedish": "tag"
+    },
+    {
+        "English": "listen",
+        "Swedish": "lyssna"
+    },
+    {
+        "English": "The police",
+        "Swedish": "polisen"
+    },
+    {
+        "English": "Said",
+        "Swedish": "sagt"
+    },
+    {
+        "English": "home",
+        "Swedish": "hemma"
+    },
+    {
+        "English": "true",
+        "Swedish": "sant"
+    },
+    {
+        "English": "The world",
+        "Swedish": "v\u00e4rldens"
+    },
+    {
+        "English": "fixed",
+        "Swedish": "fast"
+    },
+    {
+        "English": "actually",
+        "Swedish": "egentligen"
+    },
+    {
+        "English": "is located",
+        "Swedish": "ligger"
+    },
+    {
+        "English": "crap",
+        "Swedish": "skit"
+    },
+    {
+        "English": "today",
+        "Swedish": "idag"
+    },
+    {
+        "English": "minutes",
+        "Swedish": "minuter"
+    },
+    {
+        "English": "family",
+        "Swedish": "familj"
+    },
+    {
+        "English": "around",
+        "Swedish": "n\u00e4rheten"
+    },
+    {
+        "English": "become",
+        "Swedish": "blivit"
+    },
+    {
+        "English": "clear",
+        "Swedish": "klar"
+    },
+    {
+        "English": "case",
+        "Swedish": "fall"
+    },
+    {
+        "English": "Waiting",
+        "Swedish": "v\u00e4ntar"
+    },
+    {
+        "English": "died",
+        "Swedish": "dog"
+    },
+    {
+        "English": "four",
+        "Swedish": "fyra"
+    },
+    {
+        "English": "drag",
+        "Swedish": "dra"
+    },
+    {
+        "English": "dollar",
+        "Swedish": "dollar"
+    },
+    {
+        "English": "\u00c5ker",
+        "Swedish": "\u00e5ker"
+    },
+    {
+        "English": "Fun",
+        "Swedish": "kul"
+    },
+    {
+        "English": "speak",
+        "Swedish": "tala"
+    },
+    {
+        "English": "badly",
+        "Swedish": "d\u00e5ligt"
+    },
+    {
+        "English": "Men",
+        "Swedish": "m\u00e4n"
+    },
+    {
+        "English": "tried",
+        "Swedish": "f\u00f6rs\u00f6kt"
+    },
+    {
+        "English": "killed",
+        "Swedish": "d\u00f6dad"
+    },
+    {
+        "English": "preferably",
+        "Swedish": "helst"
+    },
+    {
+        "English": "otherwise",
+        "Swedish": "annars"
+    },
+    {
+        "English": "almost",
+        "Swedish": "n\u00e4stan"
+    },
+    {
+        "English": "alone",
+        "Swedish": "ensam"
+    },
+    {
+        "English": "equal",
+        "Swedish": "lika"
+    },
+    {
+        "English": "Place",
+        "Swedish": "l\u00e4gg"
+    },
+    {
+        "English": "Finds",
+        "Swedish": "hittar"
+    },
+    {
+        "English": "ready",
+        "Swedish": "redo"
+    },
+    {
+        "English": "retrieve",
+        "Swedish": "h\u00e4mta"
+    },
+    {
+        "English": "Works",
+        "Swedish": "funkar"
+    },
+    {
+        "English": "dr",
+        "Swedish": "dr"
+    },
+    {
+        "English": "The time",
+        "Swedish": "g\u00e5ngen"
+    },
+    {
+        "English": "both",
+        "Swedish": "b\u00e5de"
+    },
+    {
+        "English": "new",
+        "Swedish": "ny"
+    },
+    {
+        "English": "this one",
+        "Swedish": "denna"
+    },
+    {
+        "English": "place",
+        "Swedish": "st\u00e4lle"
+    },
+    {
+        "English": "lucky",
+        "Swedish": "tur"
+    },
+    {
+        "English": "start",
+        "Swedish": "starta"
+    },
+    {
+        "English": "Hard",
+        "Swedish": "sv\u00e5rt"
+    },
+    {
+        "English": "Quiet",
+        "Swedish": "lugnt"
+    },
+    {
+        "English": "far",
+        "Swedish": "l\u00e5ngt"
+    },
+    {
+        "English": "Playing",
+        "Swedish": "leker"
+    },
+    {
+        "English": "woman",
+        "Swedish": "kvinna"
+    },
+    {
+        "English": "Feels",
+        "Swedish": "k\u00e4nns"
+    },
+    {
+        "English": "Darling",
+        "Swedish": "\u00e4lskling"
+    },
+    {
+        "English": "Happened",
+        "Swedish": "h\u00e4nt"
+    },
+    {
+        "English": "car",
+        "Swedish": "bil"
+    },
+    {
+        "English": "sound",
+        "Swedish": "ljud"
+    },
+    {
+        "English": "together",
+        "Swedish": "tillsammans"
+    },
+    {
+        "English": "Open",
+        "Swedish": "\u00f6ppna"
+    },
+    {
+        "English": "release",
+        "Swedish": "sl\u00e4pper"
+    },
+    {
+        "English": "the house",
+        "Swedish": "huset"
+    },
+    {
+        "English": "later",
+        "Swedish": "senare"
+    },
+    {
+        "English": "Brother",
+        "Swedish": "broder"
+    },
+    {
+        "English": "Calls",
+        "Swedish": "kallar"
+    },
+    {
+        "English": "ask",
+        "Swedish": "be"
+    },
+    {
+        "English": "pipe",
+        "Swedish": "r\u00f6r"
+    },
+    {
+        "English": "sometimes",
+        "Swedish": "ibland"
+    },
+    {
+        "English": "save",
+        "Swedish": "spara"
+    },
+    {
+        "English": "either",
+        "Swedish": "antingen"
+    },
+    {
+        "English": "fast",
+        "Swedish": "snabb"
+    },
+    {
+        "English": "Happy",
+        "Swedish": "lyckliga"
+    },
+    {
+        "English": "gone",
+        "Swedish": "g\u00e5tt"
+    },
+    {
+        "English": "between",
+        "Swedish": "mellan"
+    },
+    {
+        "English": "close",
+        "Swedish": "st\u00e4nga"
+    },
+    {
+        "English": "House",
+        "Swedish": "hus"
+    },
+    {
+        "English": "were",
+        "Swedish": "vore"
+    },
+    {
+        "English": "through",
+        "Swedish": "igenom"
+    },
+    {
+        "English": "More",
+        "Swedish": "fler"
+    },
+    {
+        "English": "s",
+        "Swedish": "s"
+    },
+    {
+        "English": "felt",
+        "Swedish": "k\u00e4ndes"
+    },
+    {
+        "English": "daughter",
+        "Swedish": "dotter"
+    },
+    {
+        "English": "care",
+        "Swedish": "bryr"
+    },
+    {
+        "English": "days",
+        "Swedish": "dagar"
+    },
+    {
+        "English": "boy",
+        "Swedish": "pojke"
+    },
+    {
+        "English": "Bor",
+        "Swedish": "bor"
+    },
+    {
+        "English": "Grabs",
+        "Swedish": "fattar"
+    },
+    {
+        "English": "gladly",
+        "Swedish": "g\u00e4rna"
+    },
+    {
+        "English": "existed",
+        "Swedish": "fanns"
+    },
+    {
+        "English": "ber",
+        "Swedish": "ber"
+    },
+    {
+        "English": "Started",
+        "Swedish": "b\u00f6rjade"
+    },
+    {
+        "English": "The guy",
+        "Swedish": "grabben"
+    },
+    {
+        "English": "sitting",
+        "Swedish": "sitter"
+    },
+    {
+        "English": "beat",
+        "Swedish": "sl\u00e5"
+    },
+    {
+        "English": "yet",
+        "Swedish": "\u00e4nnu"
+    },
+    {
+        "English": "ten",
+        "Swedish": "tio"
+    },
+    {
+        "English": "nice",
+        "Swedish": "trevlig"
+    },
+    {
+        "English": "play",
+        "Swedish": "lek"
+    },
+    {
+        "English": "best",
+        "Swedish": "b\u00e4st"
+    },
+    {
+        "English": "chance",
+        "Swedish": "chans"
+    },
+    {
+        "English": "times",
+        "Swedish": "g\u00e5nger"
+    },
+    {
+        "English": "each other",
+        "Swedish": "varann"
+    },
+    {
+        "English": "hours",
+        "Swedish": "timmar"
+    },
+    {
+        "English": "liver",
+        "Swedish": "lever"
+    },
+    {
+        "English": "the money",
+        "Swedish": "pengarna"
+    },
+    {
+        "English": "eat",
+        "Swedish": "\u00e4ta"
+    },
+    {
+        "English": "shopping",
+        "Swedish": "handlar"
+    },
+    {
+        "English": "night",
+        "Swedish": "natt"
+    },
+    {
+        "English": "room",
+        "Swedish": "rum"
+    },
+    {
+        "English": "Old",
+        "Swedish": "gamle"
+    },
+    {
+        "English": "words",
+        "Swedish": "ord"
+    },
+    {
+        "English": "Raise",
+        "Swedish": "reda"
+    },
+    {
+        "English": "call",
+        "Swedish": "kalla"
+    },
+    {
+        "English": "The man",
+        "Swedish": "mannen"
+    },
+    {
+        "English": "Er",
+        "Swedish": "ert"
+    },
+    {
+        "English": "Time",
+        "Swedish": "dags"
+    },
+    {
+        "English": "behind",
+        "Swedish": "bakom"
+    },
+    {
+        "English": "old",
+        "Swedish": "gammal"
+    },
+    {
+        "English": "the job",
+        "Swedish": "jobbet"
+    },
+    {
+        "English": "the door",
+        "Swedish": "d\u00f6rren"
+    },
+    {
+        "English": "danger",
+        "Swedish": "fara"
+    },
+    {
+        "English": "these",
+        "Swedish": "dessa"
+    },
+    {
+        "English": "dies",
+        "Swedish": "d\u00f6r"
+    },
+    {
+        "English": "like that",
+        "Swedish": "s\u00e5n"
+    },
+    {
+        "English": "couple",
+        "Swedish": "par"
+    },
+    {
+        "English": "bath",
+        "Swedish": "bad"
+    },
+    {
+        "English": "helps",
+        "Swedish": "hj\u00e4lper"
+    },
+    {
+        "English": "at all",
+        "Swedish": "alls"
+    },
+    {
+        "English": "silent",
+        "Swedish": "tyst"
+    },
+    {
+        "English": "own",
+        "Swedish": "eget"
+    },
+    {
+        "English": "The day",
+        "Swedish": "dagen"
+    },
+    {
+        "English": "crazy",
+        "Swedish": "tokig"
+    },
+    {
+        "English": "town",
+        "Swedish": "stan"
+    },
+    {
+        "English": "live",
+        "Swedish": "levande"
+    },
+    {
+        "English": "Sister",
+        "Swedish": "syster"
+    },
+    {
+        "English": "worry",
+        "Swedish": "oroa"
+    },
+    {
+        "English": "food",
+        "Swedish": "mat"
+    },
+    {
+        "English": "arms",
+        "Swedish": "vapen"
+    },
+    {
+        "English": "John",
+        "Swedish": "john"
+    },
+    {
+        "English": "ring",
+        "Swedish": "ring"
+    },
+    {
+        "English": "sake",
+        "Swedish": "skull"
+    },
+    {
+        "English": "Idea",
+        "Swedish": "id\u00e9"
+    },
+    {
+        "English": "assume",
+        "Swedish": "antar"
+    },
+    {
+        "English": "taken",
+        "Swedish": "taget"
+    },
+    {
+        "English": "what",
+        "Swedish": "vad\u00e5"
+    },
+    {
+        "English": "put",
+        "Swedish": "satte"
+    },
+    {
+        "English": "stand",
+        "Swedish": "st\u00e5"
+    },
+    {
+        "English": "MRS",
+        "Swedish": "mrs"
+    },
+    {
+        "English": "Oh really",
+        "Swedish": "jas\u00e5"
+    },
+    {
+        "English": "told",
+        "Swedish": "ber\u00e4ttat"
+    },
+    {
+        "English": "quite",
+        "Swedish": "ganska"
+    },
+    {
+        "English": "follows",
+        "Swedish": "f\u00f6ljer"
+    },
+    {
+        "English": "The clock",
+        "Swedish": "klockan"
+    },
+    {
+        "English": "earlier",
+        "Swedish": "tidigare"
+    },
+    {
+        "English": "follow",
+        "Swedish": "f\u00f6lja"
+    },
+    {
+        "English": "enough",
+        "Swedish": "tillr\u00e4ckligt"
+    },
+    {
+        "English": "fine",
+        "Swedish": "fint"
+    },
+    {
+        "English": "easy",
+        "Swedish": "enkelt"
+    },
+    {
+        "English": "try",
+        "Swedish": "prova"
+    },
+    {
+        "English": "Jack",
+        "Swedish": "jack"
+    },
+    {
+        "English": "promise",
+        "Swedish": "lova"
+    },
+    {
+        "English": "work",
+        "Swedish": "fungera"
+    },
+    {
+        "English": "obvious",
+        "Swedish": "sj\u00e4lvklart"
+    },
+    {
+        "English": "school",
+        "Swedish": "skola"
+    },
+    {
+        "English": "Away",
+        "Swedish": "iv\u00e4g"
+    },
+    {
+        "English": "looking",
+        "Swedish": "tittar"
+    },
+    {
+        "English": "Tonight",
+        "Swedish": "ikv\u00e4ll"
+    },
+    {
+        "English": "several",
+        "Swedish": "flera"
+    },
+    {
+        "English": "attempt",
+        "Swedish": "f\u00f6rs\u00f6k"
+    },
+    {
+        "English": "most",
+        "Swedish": "flesta"
+    },
+    {
+        "English": "Immediately",
+        "Swedish": "direkt"
+    },
+    {
+        "English": "women",
+        "Swedish": "kvinnor"
+    },
+    {
+        "English": "months",
+        "Swedish": "m\u00e5nader"
+    },
+    {
+        "English": "outside",
+        "Swedish": "utanf\u00f6r"
+    },
+    {
+        "English": "stops",
+        "Swedish": "stannar"
+    },
+    {
+        "English": "The truth",
+        "Swedish": "sanningen"
+    },
+    {
+        "English": "correct",
+        "Swedish": "r\u00e4tta"
+    },
+    {
+        "English": "Large",
+        "Swedish": "stort"
+    },
+    {
+        "English": "Learn",
+        "Swedish": "l\u00e4r"
+    },
+    {
+        "English": "kills",
+        "Swedish": "d\u00f6dar"
+    },
+    {
+        "English": "talked",
+        "Swedish": "pratat"
+    },
+    {
+        "English": "speaks",
+        "Swedish": "talar"
+    },
+    {
+        "English": "bone",
+        "Swedish": "ben"
+    },
+    {
+        "English": "plan",
+        "Swedish": "plan"
+    },
+    {
+        "English": "boys",
+        "Swedish": "grabbar"
+    },
+    {
+        "English": "Funny",
+        "Swedish": "roligt"
+    },
+    {
+        "English": "move",
+        "Swedish": "r\u00f6ra"
+    },
+    {
+        "English": "Blood",
+        "Swedish": "blod"
+    },
+    {
+        "English": "perfect",
+        "Swedish": "perfekt"
+    },
+    {
+        "English": "teach",
+        "Swedish": "l\u00e4ra"
+    },
+    {
+        "English": "water",
+        "Swedish": "vatten"
+    },
+    {
+        "English": "choice",
+        "Swedish": "val"
+    },
+    {
+        "English": "send",
+        "Swedish": "skicka"
+    },
+    {
+        "English": "Hate",
+        "Swedish": "hatar"
+    },
+    {
+        "English": "parents",
+        "Swedish": "f\u00f6r\u00e4ldrar"
+    },
+    {
+        "English": "girl",
+        "Swedish": "tjej"
+    },
+    {
+        "English": "further",
+        "Swedish": "vidare"
+    },
+    {
+        "English": "rely",
+        "Swedish": "lita"
+    },
+    {
+        "English": "hurry",
+        "Swedish": "skynda"
+    },
+    {
+        "English": "in other words",
+        "Swedish": "allts\u00e5"
+    },
+    {
+        "English": "applies",
+        "Swedish": "g\u00e4ller"
+    },
+    {
+        "English": "use",
+        "Swedish": "anv\u00e4nda"
+    },
+    {
+        "English": "evil",
+        "Swedish": "ont"
+    },
+    {
+        "English": "head",
+        "Swedish": "huvud"
+    },
+    {
+        "English": "Forget",
+        "Swedish": "gl\u00f6mmer"
+    },
+    {
+        "English": "while",
+        "Swedish": "stund"
+    },
+    {
+        "English": "pay",
+        "Swedish": "betala"
+    },
+    {
+        "English": "desire",
+        "Swedish": "beg\u00e4r"
+    },
+    {
+        "English": "Miss",
+        "Swedish": "fr\u00f6ken"
+    },
+    {
+        "English": "yesterday",
+        "Swedish": "ig\u00e5r"
+    },
+    {
+        "English": "captain",
+        "Swedish": "kapten"
+    },
+    {
+        "English": "role",
+        "Swedish": "roll"
+    },
+    {
+        "English": "needed",
+        "Swedish": "beh\u00f6vs"
+    },
+    {
+        "English": "Tomorrow",
+        "Swedish": "imorgon"
+    },
+    {
+        "English": "angry",
+        "Swedish": "arg"
+    },
+    {
+        "English": "quiet",
+        "Swedish": "lugn"
+    },
+    {
+        "English": "the night",
+        "Swedish": "natten"
+    },
+    {
+        "English": "leaving",
+        "Swedish": "l\u00e4mnar"
+    },
+    {
+        "English": "Important",
+        "Swedish": "viktiga"
+    },
+    {
+        "English": "side",
+        "Swedish": "sidan"
+    },
+    {
+        "English": "The",
+        "Swedish": "the"
+    },
+    {
+        "English": "continue",
+        "Swedish": "forts\u00e4tta"
+    },
+    {
+        "English": "beautiful",
+        "Swedish": "vacker"
+    },
+    {
+        "English": "happen",
+        "Swedish": "ske"
+    },
+    {
+        "English": "buy",
+        "Swedish": "k\u00f6pa"
+    },
+    {
+        "English": "buddy",
+        "Swedish": "kompis"
+    },
+    {
+        "English": "within",
+        "Swedish": "inom"
+    },
+    {
+        "English": "idiot",
+        "Swedish": "idiot"
+    },
+    {
+        "English": "sat",
+        "Swedish": "satt"
+    },
+    {
+        "English": "full",
+        "Swedish": "fulla"
+    },
+    {
+        "English": "puts",
+        "Swedish": "s\u00e4tter"
+    },
+    {
+        "English": "certain",
+        "Swedish": "viss"
+    },
+    {
+        "English": "pulls",
+        "Swedish": "drar"
+    },
+    {
+        "English": "unfortunately",
+        "Swedish": "tyv\u00e4rr"
+    },
+    {
+        "English": "number",
+        "Swedish": "nummer"
+    },
+    {
+        "English": "lay",
+        "Swedish": "l\u00e4gga"
+    },
+    {
+        "English": "write",
+        "Swedish": "skriva"
+    },
+    {
+        "English": "sleep",
+        "Swedish": "sova"
+    },
+    {
+        "English": "Understand",
+        "Swedish": "f\u00f6rst\u00e5"
+    },
+    {
+        "English": "kind",
+        "Swedish": "slag"
+    },
+    {
+        "English": "weeks",
+        "Swedish": "veckor"
+    },
+    {
+        "English": "Loved",
+        "Swedish": "\u00e4lskade"
+    },
+    {
+        "English": "shows",
+        "Swedish": "visar"
+    },
+    {
+        "English": "The thing",
+        "Swedish": "saken"
+    },
+    {
+        "English": "Quickly",
+        "Swedish": "snabbt"
+    },
+    {
+        "English": "Married",
+        "Swedish": "gifte"
+    },
+    {
+        "English": "less",
+        "Swedish": "mindre"
+    },
+    {
+        "English": "according to",
+        "Swedish": "enligt"
+    },
+    {
+        "English": "Wondering",
+        "Swedish": "undrar"
+    },
+    {
+        "English": "page",
+        "Swedish": "sida"
+    },
+    {
+        "English": "the rest",
+        "Swedish": "resten"
+    },
+    {
+        "English": "Strange",
+        "Swedish": "m\u00e4rkligt"
+    },
+    {
+        "English": "Eat",
+        "Swedish": "\u00e4t"
+    },
+    {
+        "English": "week",
+        "Swedish": "vecka"
+    },
+    {
+        "English": "Ok",
+        "Swedish": "ok"
+    },
+    {
+        "English": "type",
+        "Swedish": "typ"
+    },
+    {
+        "English": "heart",
+        "Swedish": "hj\u00e4rta"
+    },
+    {
+        "English": "questions",
+        "Swedish": "fr\u00e5gor"
+    },
+    {
+        "English": "mistake",
+        "Swedish": "misstag"
+    },
+    {
+        "English": "basic",
+        "Swedish": "grund"
+    },
+    {
+        "English": "protect",
+        "Swedish": "skydda"
+    },
+    {
+        "English": "low",
+        "Swedish": "l\u00e5g"
+    },
+    {
+        "English": "Follow",
+        "Swedish": "f\u00f6lj"
+    },
+    {
+        "English": "absolutely",
+        "Swedish": "absolut"
+    },
+    {
+        "English": "explain",
+        "Swedish": "f\u00f6rklara"
+    },
+    {
+        "English": "sounded",
+        "Swedish": "l\u00e4t"
+    },
+    {
+        "English": "respond",
+        "Swedish": "svara"
+    },
+    {
+        "English": "The family",
+        "Swedish": "familjen"
+    },
+    {
+        "English": "reach",
+        "Swedish": "n\u00e5"
+    },
+    {
+        "English": "ever",
+        "Swedish": "n\u00e5gonsin"
+    },
+    {
+        "English": "themselves",
+        "Swedish": "sj\u00e4lva"
+    },
+    {
+        "English": "tells",
+        "Swedish": "ber\u00e4ttar"
+    },
+    {
+        "English": "eyes",
+        "Swedish": "\u00f6gon"
+    },
+    {
+        "English": "possible",
+        "Swedish": "m\u00f6jligt"
+    },
+    {
+        "English": "Welcome",
+        "Swedish": "v\u00e4lkommen"
+    },
+    {
+        "English": "You are welcome",
+        "Swedish": "vars\u00e5god"
+    },
+    {
+        "English": "beats",
+        "Swedish": "sl\u00e5r"
+    },
+    {
+        "English": "shot",
+        "Swedish": "skott"
+    },
+    {
+        "English": "calm",
+        "Swedish": "lugna"
+    },
+    {
+        "English": "short",
+        "Swedish": "kort"
+    },
+    {
+        "English": "person",
+        "Swedish": "m\u00e4nniska"
+    },
+    {
+        "English": "hard",
+        "Swedish": "h\u00e5rd"
+    },
+    {
+        "English": "sit",
+        "Swedish": "sitta"
+    },
+    {
+        "English": "held",
+        "Swedish": "h\u00e5llet"
+    },
+    {
+        "English": "unbelievable",
+        "Swedish": "otroligt"
+    },
+    {
+        "English": "Empty",
+        "Swedish": "tom"
+    },
+    {
+        "English": "guilty",
+        "Swedish": "skyldig"
+    },
+    {
+        "English": "uses",
+        "Swedish": "anv\u00e4nder"
+    },
+    {
+        "English": "meet",
+        "Swedish": "m\u00f6ta"
+    },
+    {
+        "English": "seven",
+        "Swedish": "sju"
+    },
+    {
+        "English": "The children",
+        "Swedish": "barnen"
+    },
+    {
+        "English": "met",
+        "Swedish": "tr\u00e4ffades"
+    },
+    {
+        "English": "exactly",
+        "Swedish": "exakt"
+    },
+    {
+        "English": "worse",
+        "Swedish": "v\u00e4rre"
+    },
+    {
+        "English": "happiness",
+        "Swedish": "lycka"
+    },
+    {
+        "English": "history",
+        "Swedish": "historien"
+    },
+    {
+        "English": "wrote",
+        "Swedish": "skrev"
+    },
+    {
+        "English": "stood",
+        "Swedish": "stod"
+    },
+    {
+        "English": "Fix",
+        "Swedish": "fixa"
+    },
+    {
+        "English": "Worked",
+        "Swedish": "jobbade"
+    },
+    {
+        "English": "Missing",
+        "Swedish": "saknas"
+    },
+    {
+        "English": "major",
+        "Swedish": "major"
+    },
+    {
+        "English": "those",
+        "Swedish": "s\u00e5na"
+    },
+    {
+        "English": "pulp",
+        "Swedish": "massa"
+    },
+    {
+        "English": "struck",
+        "Swedish": "slog"
+    },
+    {
+        "English": "jump",
+        "Swedish": "hoppa"
+    },
+    {
+        "English": "Last",
+        "Swedish": "senaste"
+    },
+    {
+        "English": "body",
+        "Swedish": "kropp"
+    },
+    {
+        "English": "usually",
+        "Swedish": "brukar"
+    },
+    {
+        "English": "tired",
+        "Swedish": "tr\u00f6tt"
+    },
+    {
+        "English": "Millions",
+        "Swedish": "miljoner"
+    },
+    {
+        "English": "ill",
+        "Swedish": "sjuk"
+    },
+    {
+        "English": "fetches",
+        "Swedish": "h\u00e4mtar"
+    },
+    {
+        "English": "Dear",
+        "Swedish": "k\u00e4ra"
+    },
+    {
+        "English": "The jaw",
+        "Swedish": "k\u00e4ften"
+    },
+    {
+        "English": "Stick",
+        "Swedish": "stick"
+    },
+    {
+        "English": "health",
+        "Swedish": "h\u00e4lsa"
+    },
+    {
+        "English": "Terrible",
+        "Swedish": "hemskt"
+    },
+    {
+        "English": "is said",
+        "Swedish": "s\u00e4gs"
+    },
+    {
+        "English": "idea",
+        "Swedish": "aning"
+    },
+    {
+        "English": "married",
+        "Swedish": "gift"
+    },
+    {
+        "English": "asks",
+        "Swedish": "fr\u00e5gar"
+    },
+    {
+        "English": "stupid",
+        "Swedish": "dumt"
+    },
+    {
+        "English": "damage",
+        "Swedish": "skada"
+    },
+    {
+        "English": "asked",
+        "Swedish": "fr\u00e5gade"
+    },
+    {
+        "English": "infront of",
+        "Swedish": "inf\u00f6r"
+    },
+    {
+        "English": "evidence",
+        "Swedish": "bevis"
+    },
+    {
+        "English": "Puts",
+        "Swedish": "l\u00e4gger"
+    },
+    {
+        "English": "coffee",
+        "Swedish": "kaffe"
+    },
+    {
+        "English": "dinner",
+        "Swedish": "middagen"
+    },
+    {
+        "English": "sin",
+        "Swedish": "synd"
+    },
+    {
+        "English": "shoot",
+        "Swedish": "skjuta"
+    },
+    {
+        "English": "past",
+        "Swedish": "f\u00f6rflutna"
+    },
+    {
+        "English": "Charlie",
+        "Swedish": "charlie"
+    },
+    {
+        "English": "eight",
+        "Swedish": "\u00e5tta"
+    },
+    {
+        "English": "York",
+        "Swedish": "york"
+    },
+    {
+        "English": "order",
+        "Swedish": "ordning"
+    },
+    {
+        "English": "Look",
+        "Swedish": "leta"
+    },
+    {
+        "English": "ends",
+        "Swedish": "slutar"
+    },
+    {
+        "English": "anything",
+        "Swedish": "n\u00e5gonting"
+    },
+    {
+        "English": "running",
+        "Swedish": "spring"
+    },
+    {
+        "English": "in front",
+        "Swedish": "framme"
+    },
+    {
+        "English": "shall",
+        "Swedish": "skall"
+    },
+    {
+        "English": "police",
+        "Swedish": "polis"
+    },
+    {
+        "English": "different",
+        "Swedish": "annorlunda"
+    },
+    {
+        "English": "moment",
+        "Swedish": "\u00f6gonblick"
+    },
+    {
+        "English": "the situation",
+        "Swedish": "situationen"
+    },
+    {
+        "English": "Often",
+        "Swedish": "ofta"
+    },
+    {
+        "English": "Sam",
+        "Swedish": "sam"
+    },
+    {
+        "English": "drink",
+        "Swedish": "drink"
+    },
+    {
+        "English": "service",
+        "Swedish": "tj\u00e4nst"
+    },
+    {
+        "English": "The boss",
+        "Swedish": "chefen"
+    },
+    {
+        "English": "the earth",
+        "Swedish": "jorden"
+    },
+    {
+        "English": "beginning",
+        "Swedish": "b\u00f6rjan"
+    },
+    {
+        "English": "la",
+        "Swedish": "la"
+    },
+    {
+        "English": "Young",
+        "Swedish": "unga"
+    },
+    {
+        "English": "various",
+        "Swedish": "olika"
+    },
+    {
+        "English": "read",
+        "Swedish": "l\u00e4s"
+    },
+    {
+        "English": "trip",
+        "Swedish": "resa"
+    },
+    {
+        "English": "David",
+        "Swedish": "david"
+    },
+    {
+        "English": "country",
+        "Swedish": "land"
+    },
+    {
+        "English": "sent",
+        "Swedish": "skickade"
+    },
+    {
+        "English": "used to",
+        "Swedish": "brukade"
+    },
+    {
+        "English": "TRUE",
+        "Swedish": "riktig"
+    },
+    {
+        "English": "pays",
+        "Swedish": "betalar"
+    },
+    {
+        "English": "agent",
+        "Swedish": "agent"
+    },
+    {
+        "English": "worried",
+        "Swedish": "orolig"
+    },
+    {
+        "English": "murder",
+        "Swedish": "m\u00f6rda"
+    },
+    {
+        "English": "searching",
+        "Swedish": "s\u00f6ker"
+    },
+    {
+        "English": "Frank",
+        "Swedish": "frank"
+    },
+    {
+        "English": "advice",
+        "Swedish": "r\u00e5d"
+    },
+    {
+        "English": "bad",
+        "Swedish": "d\u00e5liga"
+    },
+    {
+        "English": "Sticks",
+        "Swedish": "sticker"
+    },
+    {
+        "English": "forced",
+        "Swedish": "tvingade"
+    },
+    {
+        "English": "Writes",
+        "Swedish": "skriver"
+    },
+    {
+        "English": "war",
+        "Swedish": "krig"
+    },
+    {
+        "English": "Joe",
+        "Swedish": "joe"
+    },
+    {
+        "English": "Own",
+        "Swedish": "egna"
+    },
+    {
+        "English": "Hands",
+        "Swedish": "h\u00e4nderna"
+    },
+    {
+        "English": "Everywhere",
+        "Swedish": "\u00f6verallt"
+    },
+    {
+        "English": "smart",
+        "Swedish": "smart"
+    },
+    {
+        "English": "gentlemen",
+        "Swedish": "herrar"
+    },
+    {
+        "English": "USA",
+        "Swedish": "usa"
+    },
+    {
+        "English": "George",
+        "Swedish": "george"
+    },
+    {
+        "English": "hour",
+        "Swedish": "timme"
+    },
+    {
+        "English": "continues",
+        "Swedish": "forts\u00e4tter"
+    },
+    {
+        "English": "Call",
+        "Swedish": "samtal"
+    },
+    {
+        "English": "face",
+        "Swedish": "ansikte"
+    },
+    {
+        "English": "regrets",
+        "Swedish": "beklagar"
+    },
+    {
+        "English": "son of a bitch",
+        "Swedish": "j\u00e4vel"
+    },
+    {
+        "English": "seriousness",
+        "Swedish": "allvar"
+    },
+    {
+        "English": "evening",
+        "Swedish": "kv\u00e4llen"
+    },
+    {
+        "English": "response",
+        "Swedish": "svar"
+    },
+    {
+        "English": "phone",
+        "Swedish": "telefon"
+    },
+    {
+        "English": "fight",
+        "Swedish": "k\u00e4mpa"
+    },
+    {
+        "English": "the room",
+        "Swedish": "rummet"
+    },
+    {
+        "English": "meant",
+        "Swedish": "menade"
+    },
+    {
+        "English": "particularly",
+        "Swedish": "s\u00e4rskilt"
+    },
+    {
+        "English": "The doctor",
+        "Swedish": "doktorn"
+    },
+    {
+        "English": "Doctor",
+        "Swedish": "doktor"
+    },
+    {
+        "English": "the country",
+        "Swedish": "landet"
+    },
+    {
+        "English": "a",
+        "Swedish": "a"
+    },
+    {
+        "English": "lies",
+        "Swedish": "ljuger"
+    },
+    {
+        "English": "the eyes",
+        "Swedish": "\u00f6gonen"
+    },
+    {
+        "English": "the child",
+        "Swedish": "barnet"
+    },
+    {
+        "English": "Fixes",
+        "Swedish": "fixar"
+    },
+    {
+        "English": "largest",
+        "Swedish": "st\u00f6rsta"
+    },
+    {
+        "English": "TV",
+        "Swedish": "tv"
+    },
+    {
+        "English": "Mike",
+        "Swedish": "mike"
+    },
+    {
+        "English": "win",
+        "Swedish": "vinna"
+    },
+    {
+        "English": "Forgot",
+        "Swedish": "gl\u00f6mt"
+    },
+    {
+        "English": "drove",
+        "Swedish": "k\u00f6rde"
+    },
+    {
+        "English": "the city",
+        "Swedish": "staden"
+    },
+    {
+        "English": "Lord",
+        "Swedish": "herre"
+    },
+    {
+        "English": "The week",
+        "Swedish": "veckan"
+    },
+    {
+        "English": "Listens",
+        "Swedish": "lyssnar"
+    },
+    {
+        "English": "Sleeps",
+        "Swedish": "sover"
+    },
+    {
+        "English": "Fantastic",
+        "Swedish": "fantastiskt"
+    },
+    {
+        "English": "manager",
+        "Swedish": "chef"
+    },
+    {
+        "English": "despite",
+        "Swedish": "trots"
+    },
+    {
+        "English": "the woman",
+        "Swedish": "kvinnan"
+    },
+    {
+        "English": "about",
+        "Swedish": "omkring"
+    },
+    {
+        "English": "At least",
+        "Swedish": "\u00e5tminstone"
+    },
+    {
+        "English": "prison",
+        "Swedish": "f\u00e4ngelse"
+    },
+    {
+        "English": "The girl",
+        "Swedish": "flickan"
+    },
+    {
+        "English": "lost",
+        "Swedish": "f\u00f6rlorat"
+    },
+    {
+        "English": "Michael",
+        "Swedish": "michael"
+    },
+    {
+        "English": "saved",
+        "Swedish": "r\u00e4ddade"
+    },
+    {
+        "English": "Bought",
+        "Swedish": "k\u00f6pte"
+    },
+    {
+        "English": "world",
+        "Swedish": "v\u00e4rld"
+    },
+    {
+        "English": "information",
+        "Swedish": "information"
+    },
+    {
+        "English": "Fits",
+        "Swedish": "passar"
+    },
+    {
+        "English": "finally",
+        "Swedish": "\u00e4ntligen"
+    },
+    {
+        "English": "strong",
+        "Swedish": "stark"
+    },
+    {
+        "English": "free",
+        "Swedish": "fria"
+    },
+    {
+        "English": "the problem",
+        "Swedish": "problemet"
+    },
+    {
+        "English": "dog",
+        "Swedish": "hund"
+    },
+    {
+        "English": "somewhere",
+        "Swedish": "n\u00e5gonstans"
+    },
+    {
+        "English": "breathe",
+        "Swedish": "andas"
+    },
+    {
+        "English": "lose",
+        "Swedish": "f\u00f6rlora"
+    },
+    {
+        "English": "love",
+        "Swedish": "\u00e4lska"
+    },
+    {
+        "English": "Sends",
+        "Swedish": "skickar"
+    },
+    {
+        "English": "seriously",
+        "Swedish": "allvarligt"
+    },
+    {
+        "English": "Roger",
+        "Swedish": "uppfattat"
+    },
+    {
+        "English": "the body",
+        "Swedish": "kroppen"
+    },
+    {
+        "English": "the war",
+        "Swedish": "kriget"
+    },
+    {
+        "English": "Max",
+        "Swedish": "max"
+    },
+    {
+        "English": "Peter",
+        "Swedish": "peter"
+    },
+    {
+        "English": "clothes",
+        "Swedish": "kl\u00e4der"
+    },
+    {
+        "English": "drop",
+        "Swedish": "sl\u00e4ppa"
+    },
+    {
+        "English": "speed",
+        "Swedish": "fart"
+    },
+    {
+        "English": "lawyer",
+        "Swedish": "advokat"
+    },
+    {
+        "English": "instead",
+        "Swedish": "ist\u00e4llet"
+    },
+    {
+        "English": "straight",
+        "Swedish": "rakt"
+    },
+    {
+        "English": "the question",
+        "Swedish": "fr\u00e5gan"
+    },
+    {
+        "English": "everything",
+        "Swedish": "allting"
+    },
+    {
+        "English": "Shoots",
+        "Swedish": "skjuter"
+    },
+    {
+        "English": "The shit",
+        "Swedish": "skiten"
+    },
+    {
+        "English": "given",
+        "Swedish": "gett"
+    },
+    {
+        "English": "the hospital",
+        "Swedish": "sjukhuset"
+    },
+    {
+        "English": "Slide",
+        "Swedish": "skjut"
+    },
+    {
+        "English": "peace",
+        "Swedish": "fred"
+    },
+    {
+        "English": "White",
+        "Swedish": "vit"
+    },
+    {
+        "English": "LNTE",
+        "Swedish": "lnte"
+    },
+    {
+        "English": "FBI",
+        "Swedish": "fbi"
+    },
+    {
+        "English": "trust",
+        "Swedish": "litar"
+    },
+    {
+        "English": "sell",
+        "Swedish": "s\u00e4lja"
+    },
+    {
+        "English": "Dan",
+        "Swedish": "dan"
+    },
+    {
+        "English": "Liked",
+        "Swedish": "gillade"
+    },
+    {
+        "English": "black",
+        "Swedish": "svart"
+    },
+    {
+        "English": "berries",
+        "Swedish": "b\u00e4r"
+    },
+    {
+        "English": "happy",
+        "Swedish": "glada"
+    },
+    {
+        "English": "interesting",
+        "Swedish": "intressant"
+    },
+    {
+        "English": "except",
+        "Swedish": "utom"
+    },
+    {
+        "English": "girls",
+        "Swedish": "tjejer"
+    },
+    {
+        "English": "of course",
+        "Swedish": "f\u00f6rst\u00e5s"
+    },
+    {
+        "English": "Looks",
+        "Swedish": "kollar"
+    },
+    {
+        "English": "News",
+        "Swedish": "nyheterna"
+    },
+    {
+        "English": "the girl",
+        "Swedish": "tjejen"
+    },
+    {
+        "English": "Crikey",
+        "Swedish": "j\u00f6sses"
+    },
+    {
+        "English": "seconds",
+        "Swedish": "sekunder"
+    },
+    {
+        "English": "working",
+        "Swedish": "arbetar"
+    },
+    {
+        "English": "Wins",
+        "Swedish": "vinner"
+    },
+    {
+        "English": "In progress",
+        "Swedish": "p\u00e5g\u00e5r"
+    },
+    {
+        "English": "careful",
+        "Swedish": "f\u00f6rsiktig"
+    },
+    {
+        "English": "planet",
+        "Swedish": "planet"
+    },
+    {
+        "English": "the water",
+        "Swedish": "vattnet"
+    },
+    {
+        "English": "proud",
+        "Swedish": "stolt"
+    },
+    {
+        "English": "the case",
+        "Swedish": "fallet"
+    },
+    {
+        "English": "thank",
+        "Swedish": "tacka"
+    },
+    {
+        "English": "killer",
+        "Swedish": "m\u00f6rdare"
+    },
+    {
+        "English": "Death",
+        "Swedish": "d\u00f6den"
+    },
+    {
+        "English": "message",
+        "Swedish": "meddelande"
+    },
+    {
+        "English": "Sure",
+        "Swedish": "javisst"
+    },
+    {
+        "English": "decision",
+        "Swedish": "beslut"
+    },
+    {
+        "English": "deserves",
+        "Swedish": "f\u00f6rtj\u00e4nar"
+    },
+    {
+        "English": "James",
+        "Swedish": "james"
+    },
+    {
+        "English": "beer",
+        "Swedish": "\u00f6l"
+    },
+    {
+        "English": "office",
+        "Swedish": "kontor"
+    },
+    {
+        "English": "dear",
+        "Swedish": "raring"
+    },
+    {
+        "English": "reason",
+        "Swedish": "sk\u00e4l"
+    },
+    {
+        "English": "ground",
+        "Swedish": "mark"
+    },
+    {
+        "English": "among",
+        "Swedish": "bland"
+    },
+    {
+        "English": "the boy",
+        "Swedish": "pojken"
+    },
+    {
+        "English": "early",
+        "Swedish": "tidigt"
+    },
+    {
+        "English": "joking",
+        "Swedish": "sk\u00e4mtar"
+    },
+    {
+        "English": "wake",
+        "Swedish": "vakna"
+    },
+    {
+        "English": "Film",
+        "Swedish": "film"
+    },
+    {
+        "English": "suddenly",
+        "Swedish": "pl\u00f6tsligt"
+    },
+    {
+        "English": "Great",
+        "Swedish": "h\u00e4rligt"
+    },
+    {
+        "English": "handsome",
+        "Swedish": "snygg"
+    },
+    {
+        "English": "hardly",
+        "Swedish": "knappast"
+    },
+    {
+        "English": "the end",
+        "Swedish": "slutet"
+    },
+    {
+        "English": "hair",
+        "Swedish": "h\u00e5r"
+    },
+    {
+        "English": "disappeared",
+        "Swedish": "f\u00f6rsvann"
+    },
+    {
+        "English": "party",
+        "Swedish": "fest"
+    },
+    {
+        "English": "Meeting",
+        "Swedish": "m\u00f6ter"
+    },
+    {
+        "English": "real",
+        "Swedish": "riktiga"
+    },
+    {
+        "English": "Fire",
+        "Swedish": "eld"
+    },
+    {
+        "English": "bowl",
+        "Swedish": "sk\u00e5l"
+    },
+    {
+        "English": "l",
+        "Swedish": "l"
+    },
+    {
+        "English": "learned",
+        "Swedish": "l\u00e4rt"
+    },
+    {
+        "English": "nine",
+        "Swedish": "nio"
+    },
+    {
+        "English": "business",
+        "Swedish": "aff\u00e4r"
+    },
+    {
+        "English": "helped",
+        "Swedish": "hj\u00e4lpte"
+    },
+    {
+        "English": "ers",
+        "Swedish": "ers"
+    },
+    {
+        "English": "talking",
+        "Swedish": "snackar"
+    },
+    {
+        "English": "wonderfully",
+        "Swedish": "underbart"
+    },
+    {
+        "English": "known",
+        "Swedish": "k\u00e4nd"
+    },
+    {
+        "English": "third",
+        "Swedish": "tredje"
+    },
+    {
+        "English": "Ladies",
+        "Swedish": "damer"
+    },
+    {
+        "English": "Book",
+        "Swedish": "bok"
+    },
+    {
+        "English": "animal",
+        "Swedish": "djur"
+    },
+    {
+        "English": "uncle",
+        "Swedish": "farbror"
+    },
+    {
+        "English": "showed",
+        "Swedish": "visade"
+    },
+    {
+        "English": "Nice",
+        "Swedish": "snyggt"
+    },
+    {
+        "English": "arrange",
+        "Swedish": "ordna"
+    },
+    {
+        "English": "President",
+        "Swedish": "president"
+    },
+    {
+        "English": "Morse",
+        "Swedish": "morse"
+    },
+    {
+        "English": "parts",
+        "Swedish": "delar"
+    },
+    {
+        "English": "Congratulations",
+        "Swedish": "grattis"
+    },
+    {
+        "English": "apparently",
+        "Swedish": "tydligen"
+    },
+    {
+        "English": "Contact",
+        "Swedish": "kontakt"
+    },
+    {
+        "English": "Dangerous",
+        "Swedish": "farligt"
+    },
+    {
+        "English": "impossible",
+        "Swedish": "om\u00f6jligt"
+    },
+    {
+        "English": "hits",
+        "Swedish": "tr\u00e4ffar"
+    },
+    {
+        "English": "e",
+        "Swedish": "e"
+    },
+    {
+        "English": "game",
+        "Swedish": "spel"
+    },
+    {
+        "English": "goal",
+        "Swedish": "m\u00e5l"
+    },
+    {
+        "English": "pretend",
+        "Swedish": "l\u00e5tsas"
+    },
+    {
+        "English": "forget",
+        "Swedish": "gl\u00f6mma"
+    },
+    {
+        "English": "select",
+        "Swedish": "v\u00e4lja"
+    },
+    {
+        "English": "feelings",
+        "Swedish": "k\u00e4nslor"
+    },
+    {
+        "English": "Pa",
+        "Swedish": "pa"
+    },
+    {
+        "English": "change",
+        "Swedish": "f\u00f6r\u00e4ndras"
+    },
+    {
+        "English": "joints",
+        "Swedish": "leder"
+    },
+    {
+        "English": "King",
+        "Swedish": "kung"
+    },
+    {
+        "English": "promised",
+        "Swedish": "lovade"
+    },
+    {
+        "English": "sleeping",
+        "Swedish": "sov"
+    },
+    {
+        "English": "the year",
+        "Swedish": "\u00e5ret"
+    },
+    {
+        "English": "knit",
+        "Swedish": "sticka"
+    },
+    {
+        "English": "Blacks",
+        "Swedish": "svarta"
+    },
+    {
+        "English": "Paul",
+        "Swedish": "paul"
+    },
+    {
+        "English": "fantastic",
+        "Swedish": "fantastisk"
+    },
+    {
+        "English": "high",
+        "Swedish": "h\u00f6g"
+    },
+    {
+        "English": "Henry",
+        "Swedish": "henry"
+    },
+    {
+        "English": "the heart",
+        "Swedish": "hj\u00e4rtat"
+    },
+    {
+        "English": "Stop",
+        "Swedish": "stopp"
+    },
+    {
+        "English": "girlfriend",
+        "Swedish": "flickv\u00e4n"
+    },
+    {
+        "English": "fully",
+        "Swedish": "fullt"
+    },
+    {
+        "English": "stole",
+        "Swedish": "stal"
+    },
+    {
+        "English": "end",
+        "Swedish": "avsluta"
+    },
+    {
+        "English": "Alex",
+        "Swedish": "alex"
+    },
+    {
+        "English": "Jesus",
+        "Swedish": "jesus"
+    },
+    {
+        "English": "thing",
+        "Swedish": "grej"
+    },
+    {
+        "English": "meter",
+        "Swedish": "meter"
+    },
+    {
+        "English": "dream",
+        "Swedish": "dr\u00f6m"
+    },
+    {
+        "English": "lie",
+        "Swedish": "l\u00f6gn"
+    },
+    {
+        "English": "broken",
+        "Swedish": "s\u00f6nder"
+    },
+    {
+        "English": "hungry",
+        "Swedish": "hungrig"
+    },
+    {
+        "English": "O",
+        "Swedish": "o"
+    },
+    {
+        "English": "used",
+        "Swedish": "anv\u00e4nd"
+    },
+    {
+        "English": "lied",
+        "Swedish": "lj\u00f6g"
+    },
+    {
+        "English": "step",
+        "Swedish": "steg"
+    },
+    {
+        "English": "Destroy",
+        "Swedish": "f\u00f6rst\u00f6ra"
+    },
+    {
+        "English": "belongs",
+        "Swedish": "tillh\u00f6r"
+    },
+    {
+        "English": "sort of",
+        "Swedish": "slags"
+    },
+    {
+        "English": "escape",
+        "Swedish": "fly"
+    },
+    {
+        "English": "it",
+        "Swedish": "vare"
+    },
+    {
+        "English": "rather",
+        "Swedish": "hellre"
+    },
+    {
+        "English": "mission",
+        "Swedish": "uppdrag"
+    },
+    {
+        "English": "especially",
+        "Swedish": "speciellt"
+    },
+    {
+        "English": "beautifully",
+        "Swedish": "vackert"
+    },
+    {
+        "English": "worst",
+        "Swedish": "v\u00e4rsta"
+    },
+    {
+        "English": "Fine",
+        "Swedish": "fina"
+    },
+    {
+        "English": "Played",
+        "Swedish": "spelade"
+    },
+    {
+        "English": "dance",
+        "Swedish": "dansa"
+    },
+    {
+        "English": "rest",
+        "Swedish": "vila"
+    },
+    {
+        "English": "managed",
+        "Swedish": "lyckades"
+    },
+    {
+        "English": "sweet",
+        "Swedish": "s\u00f6t"
+    },
+    {
+        "English": "the movie",
+        "Swedish": "filmen"
+    },
+    {
+        "English": "Worth",
+        "Swedish": "v\u00e4rt"
+    },
+    {
+        "English": "joke",
+        "Swedish": "sk\u00e4mt"
+    },
+    {
+        "English": "The name",
+        "Swedish": "namnet"
+    },
+    {
+        "English": "the forest",
+        "Swedish": "skogen"
+    },
+    {
+        "English": "in love",
+        "Swedish": "k\u00e4r"
+    },
+    {
+        "English": "solve",
+        "Swedish": "l\u00f6sa"
+    },
+    {
+        "English": "The street",
+        "Swedish": "gatan"
+    },
+    {
+        "English": "picture",
+        "Swedish": "bild"
+    },
+    {
+        "English": "music",
+        "Swedish": "musik"
+    },
+    {
+        "English": "stopped",
+        "Swedish": "stannade"
+    },
+    {
+        "English": "occupied",
+        "Swedish": "upptagen"
+    },
+    {
+        "English": "spoken",
+        "Swedish": "talas"
+    },
+    {
+        "English": "Talk",
+        "Swedish": "snacka"
+    },
+    {
+        "English": "security",
+        "Swedish": "s\u00e4kerhet"
+    },
+    {
+        "English": "Drink",
+        "Swedish": "drick"
+    },
+    {
+        "English": "genuine",
+        "Swedish": "\u00e4kta"
+    },
+    {
+        "English": "From there",
+        "Swedish": "d\u00e4rifr\u00e5n"
+    },
+    {
+        "English": "was called",
+        "Swedish": "hette"
+    },
+    {
+        "English": "Jim",
+        "Swedish": "jim"
+    },
+    {
+        "English": "Harry",
+        "Swedish": "harry"
+    },
+    {
+        "English": "losing",
+        "Swedish": "f\u00f6rlorar"
+    },
+    {
+        "English": "City",
+        "Swedish": "city"
+    },
+    {
+        "English": "drug",
+        "Swedish": "drog"
+    },
+    {
+        "English": "General",
+        "Swedish": "general"
+    },
+    {
+        "English": "lunch",
+        "Swedish": "lunch"
+    },
+    {
+        "English": "approximately",
+        "Swedish": "ungef\u00e4r"
+    },
+    {
+        "English": "Close",
+        "Swedish": "st\u00e4ng"
+    },
+    {
+        "English": "Hand",
+        "Swedish": "handen"
+    },
+    {
+        "English": "throw",
+        "Swedish": "kasta"
+    },
+    {
+        "English": "goodbye",
+        "Swedish": "adj\u00f6"
+    },
+    {
+        "English": "every",
+        "Swedish": "varenda"
+    },
+    {
+        "English": "crime",
+        "Swedish": "brott"
+    },
+    {
+        "English": "bar",
+        "Swedish": "bar"
+    },
+    {
+        "English": "area",
+        "Swedish": "omr\u00e5de"
+    },
+    {
+        "English": "chose",
+        "Swedish": "valde"
+    },
+    {
+        "English": "glass",
+        "Swedish": "glas"
+    },
+    {
+        "English": "Places",
+        "Swedish": "st\u00e4ller"
+    },
+    {
+        "English": "began",
+        "Swedish": "b\u00f6rjat"
+    },
+    {
+        "English": "Won",
+        "Swedish": "vann"
+    },
+    {
+        "English": "interested",
+        "Swedish": "intresserad"
+    },
+    {
+        "English": "nod",
+        "Swedish": "nick"
+    },
+    {
+        "English": "Jimmy",
+        "Swedish": "jimmy"
+    },
+    {
+        "English": "waited",
+        "Swedish": "v\u00e4ntade"
+    },
+    {
+        "English": "Buying",
+        "Swedish": "k\u00f6per"
+    },
+    {
+        "English": "Boys",
+        "Swedish": "pojkar"
+    },
+    {
+        "English": "ride",
+        "Swedish": "\u00e5k"
+    },
+    {
+        "English": "Sarah",
+        "Swedish": "sarah"
+    },
+    {
+        "English": "arranges",
+        "Swedish": "ordnar"
+    },
+    {
+        "English": "The future",
+        "Swedish": "framtiden"
+    },
+    {
+        "English": "Ray",
+        "Swedish": "ray"
+    },
+    {
+        "English": "husband",
+        "Swedish": "make"
+    },
+    {
+        "English": "sells",
+        "Swedish": "s\u00e4ljer"
+    },
+    {
+        "English": "Disappear",
+        "Swedish": "f\u00f6rsvinn"
+    },
+    {
+        "English": "boyfriend",
+        "Swedish": "pojkv\u00e4n"
+    },
+    {
+        "English": "minute",
+        "Swedish": "minut"
+    },
+    {
+        "English": "Girls",
+        "Swedish": "flickor"
+    },
+    {
+        "English": "Beautiful",
+        "Swedish": "vackra"
+    },
+    {
+        "English": "track",
+        "Swedish": "sp\u00e5ra"
+    },
+    {
+        "English": "disturb",
+        "Swedish": "st\u00f6r"
+    },
+    {
+        "English": "looked",
+        "Swedish": "tittade"
+    },
+    {
+        "English": "Hangs",
+        "Swedish": "h\u00e4nger"
+    },
+    {
+        "English": "Nowhere",
+        "Swedish": "ingenstans"
+    },
+    {
+        "English": "share",
+        "Swedish": "dela"
+    },
+    {
+        "English": "prove",
+        "Swedish": "bevisa"
+    },
+    {
+        "English": "light",
+        "Swedish": "ljus"
+    },
+    {
+        "English": "have time to",
+        "Swedish": "hinner"
+    },
+    {
+        "English": "Paris",
+        "Swedish": "paris"
+    },
+    {
+        "English": "Smells",
+        "Swedish": "luktar"
+    },
+    {
+        "English": "closer",
+        "Swedish": "n\u00e4rmare"
+    },
+    {
+        "English": "swear",
+        "Swedish": "sv\u00e4r"
+    },
+    {
+        "English": "The chance",
+        "Swedish": "chansen"
+    },
+    {
+        "English": "understood",
+        "Swedish": "f\u00f6rstod"
+    },
+    {
+        "English": "plain",
+        "Swedish": "vanligt"
+    },
+    {
+        "English": "Tony",
+        "Swedish": "tony"
+    },
+    {
+        "English": "the bed",
+        "Swedish": "s\u00e4ngen"
+    },
+    {
+        "English": "Bob",
+        "Swedish": "bob"
+    },
+    {
+        "English": "mail",
+        "Swedish": "brev"
+    },
+    {
+        "English": "the same",
+        "Swedish": "detsamma"
+    },
+    {
+        "English": "agreed",
+        "Swedish": "\u00f6verens"
+    },
+    {
+        "English": "guess",
+        "Swedish": "gissa"
+    },
+    {
+        "English": "\u00c5",
+        "Swedish": "\u00e5"
+    },
+    {
+        "English": "Expected",
+        "Swedish": "v\u00e4ntat"
+    },
+    {
+        "English": "The book",
+        "Swedish": "boken"
+    },
+    {
+        "English": "Bill",
+        "Swedish": "bill"
+    },
+    {
+        "English": "Stupid",
+        "Swedish": "dumma"
+    },
+    {
+        "English": "gun",
+        "Swedish": "pistol"
+    },
+    {
+        "English": "the face",
+        "Swedish": "ansiktet"
+    },
+    {
+        "English": "rung",
+        "Swedish": "ringt"
+    },
+    {
+        "English": "voice",
+        "Swedish": "r\u00f6st"
+    },
+    {
+        "English": "beware",
+        "Swedish": "akta"
+    },
+    {
+        "English": "secure",
+        "Swedish": "s\u00e4kra"
+    },
+    {
+        "English": "month",
+        "Swedish": "m\u00e5nad"
+    },
+    {
+        "English": "on board",
+        "Swedish": "ombord"
+    },
+    {
+        "English": "Soul",
+        "Swedish": "sj\u00e4l"
+    },
+    {
+        "English": "Owns",
+        "Swedish": "\u00e4ger"
+    },
+    {
+        "English": "Tommy",
+        "Swedish": "tommy"
+    },
+    {
+        "English": "welcome",
+        "Swedish": "v\u00e4lkomna"
+    },
+    {
+        "English": "the ground",
+        "Swedish": "marken"
+    },
+    {
+        "English": "apartment",
+        "Swedish": "l\u00e4genhet"
+    },
+    {
+        "English": "gently",
+        "Swedish": "f\u00f6rsiktigt"
+    },
+    {
+        "English": "Poor",
+        "Swedish": "stackars"
+    },
+    {
+        "English": "stuff",
+        "Swedish": "grejer"
+    },
+    {
+        "English": "Mary",
+        "Swedish": "maria"
+    },
+    {
+        "English": "pictures",
+        "Swedish": "bilder"
+    },
+    {
+        "English": "Control",
+        "Swedish": "kontroll"
+    },
+    {
+        "English": "In addition",
+        "Swedish": "dessutom"
+    },
+    {
+        "English": "wonderful",
+        "Swedish": "underbar"
+    },
+    {
+        "English": "Reads",
+        "Swedish": "l\u00e4ser"
+    },
+    {
+        "English": "The phone",
+        "Swedish": "telefonen"
+    },
+    {
+        "English": "Excellent",
+        "Swedish": "utm\u00e4rkt"
+    },
+    {
+        "English": "answers",
+        "Swedish": "svarar"
+    },
+    {
+        "English": "the president",
+        "Swedish": "presidenten"
+    },
+    {
+        "English": "Appreciate",
+        "Swedish": "uppskattar"
+    },
+    {
+        "English": "extra",
+        "Swedish": "extra"
+    },
+    {
+        "English": "like",
+        "Swedish": "lik"
+    },
+    {
+        "English": "n",
+        "Swedish": "n"
+    },
+    {
+        "English": "damaged",
+        "Swedish": "skadade"
+    },
+    {
+        "English": "build",
+        "Swedish": "bygga"
+    },
+    {
+        "English": "Died",
+        "Swedish": "d\u00f6tt"
+    },
+    {
+        "English": "the plan",
+        "Swedish": "planen"
+    },
+    {
+        "English": "decides",
+        "Swedish": "best\u00e4mmer"
+    },
+    {
+        "English": "partner",
+        "Swedish": "partner"
+    },
+    {
+        "English": "such",
+        "Swedish": "s\u00e5dana"
+    },
+    {
+        "English": "as well as",
+        "Swedish": "liksom"
+    },
+    {
+        "English": "fly",
+        "Swedish": "flyga"
+    },
+    {
+        "English": "company",
+        "Swedish": "s\u00e4llskap"
+    },
+    {
+        "English": "Read",
+        "Swedish": "l\u00e4ste"
+    },
+    {
+        "English": "seemed",
+        "Swedish": "verkade"
+    },
+    {
+        "English": "By the way",
+        "Swedish": "f\u00f6rresten"
+    },
+    {
+        "English": "thousand",
+        "Swedish": "tusen"
+    },
+    {
+        "English": "least",
+        "Swedish": "minst"
+    },
+    {
+        "English": "London",
+        "Swedish": "london"
+    },
+    {
+        "English": "young",
+        "Swedish": "unge"
+    },
+    {
+        "English": "clean",
+        "Swedish": "st\u00e4da"
+    },
+    {
+        "English": "speech",
+        "Swedish": "tal"
+    },
+    {
+        "English": "accident",
+        "Swedish": "olycka"
+    },
+    {
+        "English": "stack",
+        "Swedish": "stack"
+    },
+    {
+        "English": "the place",
+        "Swedish": "platsen"
+    },
+    {
+        "English": "Danny",
+        "Swedish": "danny"
+    },
+    {
+        "English": "The party",
+        "Swedish": "festen"
+    },
+    {
+        "English": "realize",
+        "Swedish": "inser"
+    },
+    {
+        "English": "been able to",
+        "Swedish": "kunnat"
+    },
+    {
+        "English": "bullshit",
+        "Swedish": "skitsnack"
+    },
+    {
+        "English": "victims",
+        "Swedish": "offer"
+    },
+    {
+        "English": "Ship",
+        "Swedish": "skepp"
+    },
+    {
+        "English": "required",
+        "Swedish": "kr\u00e4vs"
+    },
+    {
+        "English": "half",
+        "Swedish": "halva"
+    },
+    {
+        "English": "borrow",
+        "Swedish": "l\u00e5na"
+    },
+    {
+        "English": "Forward",
+        "Swedish": "fram\u00e5t"
+    },
+    {
+        "English": "permission",
+        "Swedish": "lov"
+    },
+    {
+        "English": "van",
+        "Swedish": "van"
+    },
+    {
+        "English": "eye",
+        "Swedish": "\u00f6ga"
+    },
+    {
+        "English": "respect",
+        "Swedish": "respekt"
+    },
+    {
+        "English": "list",
+        "Swedish": "lista"
+    },
+    {
+        "English": "the weapon",
+        "Swedish": "vapnet"
+    },
+    {
+        "English": "nervous",
+        "Swedish": "nerv\u00f6s"
+    },
+    {
+        "English": "create",
+        "Swedish": "skapa"
+    },
+    {
+        "English": "Richard",
+        "Swedish": "richard"
+    },
+    {
+        "English": "Church",
+        "Swedish": "kyrkan"
+    },
+    {
+        "English": "followed",
+        "Swedish": "f\u00f6ljde"
+    },
+    {
+        "English": "colonel",
+        "Swedish": "\u00f6verste"
+    },
+    {
+        "English": "team",
+        "Swedish": "team"
+    },
+    {
+        "English": "The people",
+        "Swedish": "folket"
+    },
+    {
+        "English": "Set",
+        "Swedish": "st\u00e4ll"
+    },
+    {
+        "English": "neither",
+        "Swedish": "varken"
+    },
+    {
+        "English": "opens",
+        "Swedish": "\u00f6ppnar"
+    },
+    {
+        "English": "Billy",
+        "Swedish": "billy"
+    },
+    {
+        "English": "beside",
+        "Swedish": "bredvid"
+    },
+    {
+        "English": "Jake",
+        "Swedish": "jake"
+    },
+    {
+        "English": "Martin",
+        "Swedish": "martin"
+    },
+    {
+        "English": "Christmas",
+        "Swedish": "jul"
+    },
+    {
+        "English": "lived",
+        "Swedish": "bodde"
+    },
+    {
+        "English": "sign",
+        "Swedish": "tecken"
+    },
+    {
+        "English": "immediately",
+        "Swedish": "omedelbart"
+    },
+    {
+        "English": "older",
+        "Swedish": "\u00e4ldre"
+    },
+    {
+        "English": "disappears",
+        "Swedish": "f\u00f6rsvinner"
+    },
+    {
+        "English": "pregnant",
+        "Swedish": "gravid"
+    },
+    {
+        "English": "realized",
+        "Swedish": "ins\u00e5g"
+    },
+    {
+        "English": "Power",
+        "Swedish": "makt"
+    },
+    {
+        "English": "count",
+        "Swedish": "r\u00e4kna"
+    },
+    {
+        "English": "The ship",
+        "Swedish": "skeppet"
+    },
+    {
+        "English": "secret",
+        "Swedish": "hemlighet"
+    },
+    {
+        "English": "retain",
+        "Swedish": "beh\u00e5lla"
+    },
+    {
+        "English": "fit",
+        "Swedish": "passa"
+    },
+    {
+        "English": "the killer",
+        "Swedish": "m\u00f6rdaren"
+    },
+    {
+        "English": "The boat",
+        "Swedish": "b\u00e5ten"
+    },
+    {
+        "English": "future",
+        "Swedish": "framtid"
+    },
+    {
+        "English": "law",
+        "Swedish": "lag"
+    },
+    {
+        "English": "regardless",
+        "Swedish": "oavsett"
+    },
+    {
+        "English": "spoke",
+        "Swedish": "talade"
+    },
+    {
+        "English": "The guys",
+        "Swedish": "killarna"
+    },
+    {
+        "English": "requires",
+        "Swedish": "kr\u00e4ver"
+    },
+    {
+        "English": "host",
+        "Swedish": "v\u00e4rd"
+    },
+    {
+        "English": "The back",
+        "Swedish": "ryggen"
+    },
+    {
+        "English": "plenty",
+        "Swedish": "massor"
+    },
+    {
+        "English": "evenly",
+        "Swedish": "j\u00e4mt"
+    },
+    {
+        "English": "BED",
+        "Swedish": "s\u00e4ng"
+    },
+    {
+        "English": "force",
+        "Swedish": "tvinga"
+    },
+    {
+        "English": "invite",
+        "Swedish": "bjuda"
+    },
+    {
+        "English": "Selects",
+        "Swedish": "v\u00e4ljer"
+    },
+    {
+        "English": "fell",
+        "Swedish": "f\u00f6ll"
+    },
+    {
+        "English": "the sea",
+        "Swedish": "havet"
+    },
+    {
+        "English": "means",
+        "Swedish": "inneb\u00e4r"
+    },
+    {
+        "English": "wear",
+        "Swedish": "b\u00e4ra"
+    },
+    {
+        "English": "Chris",
+        "Swedish": "chris"
+    },
+    {
+        "English": "serve",
+        "Swedish": "tj\u00e4na"
+    },
+    {
+        "English": "depend",
+        "Swedish": "beror"
+    },
+    {
+        "English": "Boring",
+        "Swedish": "tr\u00e5kigt"
+    },
+    {
+        "English": "costs",
+        "Swedish": "kostar"
+    },
+    {
+        "English": "Heaven",
+        "Swedish": "himlen"
+    },
+    {
+        "English": "Probably",
+        "Swedish": "antagligen"
+    },
+    {
+        "English": "important",
+        "Swedish": "viktig"
+    },
+    {
+        "English": "The food",
+        "Swedish": "maten"
+    },
+    {
+        "English": "higher",
+        "Swedish": "h\u00f6gre"
+    },
+    {
+        "English": "tea",
+        "Swedish": "te"
+    },
+    {
+        "English": "the sun",
+        "Swedish": "solen"
+    },
+    {
+        "English": "Clark",
+        "Swedish": "clark"
+    },
+    {
+        "English": "hero",
+        "Swedish": "hj\u00e4lte"
+    },
+    {
+        "English": "succeed",
+        "Swedish": "lyckas"
+    },
+    {
+        "English": "visit",
+        "Swedish": "bes\u00f6k"
+    },
+    {
+        "English": "deep",
+        "Swedish": "djupt"
+    },
+    {
+        "English": "surprise",
+        "Swedish": "\u00f6verraskning"
+    },
+    {
+        "English": "destroy",
+        "Swedish": "f\u00f6rst\u00f6r"
+    },
+    {
+        "English": "dare",
+        "Swedish": "v\u00e5gar"
+    },
+    {
+        "English": "bit",
+        "Swedish": "bit"
+    },
+    {
+        "English": "ports",
+        "Swedish": "hamnar"
+    },
+    {
+        "English": "thoughts",
+        "Swedish": "tankar"
+    },
+    {
+        "English": "upset",
+        "Swedish": "uppr\u00f6rd"
+    },
+    {
+        "English": "group",
+        "Swedish": "grupp"
+    },
+    {
+        "English": "usual",
+        "Swedish": "vanliga"
+    },
+    {
+        "English": "The morning",
+        "Swedish": "morgonen"
+    },
+    {
+        "English": "Thomas",
+        "Swedish": "thomas"
+    },
+    {
+        "English": "English",
+        "Swedish": "engelska"
+    },
+    {
+        "English": "The key",
+        "Swedish": "nyckeln"
+    },
+    {
+        "English": "responsibility",
+        "Swedish": "ansvar"
+    },
+    {
+        "English": "band",
+        "Swedish": "band"
+    },
+    {
+        "English": "wine",
+        "Swedish": "vin"
+    },
+    {
+        "English": "the meaning",
+        "Swedish": "meningen"
+    },
+    {
+        "English": "Relax",
+        "Swedish": "slappna"
+    },
+    {
+        "English": "broke",
+        "Swedish": "br\u00f6t"
+    },
+    {
+        "English": "survive",
+        "Swedish": "\u00f6verleva"
+    },
+    {
+        "English": "the word",
+        "Swedish": "ordet"
+    },
+    {
+        "English": "are",
+        "Swedish": "ar"
+    },
+    {
+        "English": "prepared",
+        "Swedish": "beredd"
+    },
+    {
+        "English": "The murder",
+        "Swedish": "mordet"
+    },
+    {
+        "English": "The bastard",
+        "Swedish": "j\u00e4veln"
+    },
+    {
+        "English": "Missed",
+        "Swedish": "missade"
+    },
+    {
+        "English": "Moves",
+        "Swedish": "flyttar"
+    },
+    {
+        "English": "Steve",
+        "Swedish": "steve"
+    },
+    {
+        "English": "catch",
+        "Swedish": "f\u00e5nga"
+    },
+    {
+        "English": "MS",
+        "Swedish": "ms"
+    },
+    {
+        "English": "The gun",
+        "Swedish": "pistolen"
+    },
+    {
+        "English": "Red",
+        "Swedish": "r\u00f6da"
+    },
+    {
+        "English": "per",
+        "Swedish": "per"
+    },
+    {
+        "English": "Johnny",
+        "Swedish": "johnny"
+    },
+    {
+        "English": "ran",
+        "Swedish": "sprang"
+    },
+    {
+        "English": "blue",
+        "Swedish": "bl\u00e5"
+    },
+    {
+        "English": "Moved",
+        "Swedish": "flyttade"
+    },
+    {
+        "English": "normally",
+        "Swedish": "normalt"
+    },
+    {
+        "English": "Thank you",
+        "Swedish": "tackar"
+    },
+    {
+        "English": "baby",
+        "Swedish": "baby"
+    },
+    {
+        "English": "honest",
+        "Swedish": "\u00e4rlig"
+    },
+    {
+        "English": "Anna",
+        "Swedish": "anna"
+    },
+    {
+        "English": "prepare",
+        "Swedish": "laga"
+    },
+    {
+        "English": "the office",
+        "Swedish": "kontoret"
+    },
+    {
+        "English": "Daniel",
+        "Swedish": "daniel"
+    },
+    {
+        "English": "age",
+        "Swedish": "\u00e5lder"
+    },
+    {
+        "English": "The king",
+        "Swedish": "kungen"
+    },
+    {
+        "English": "Offers",
+        "Swedish": "bjuder"
+    },
+    {
+        "English": "Turn",
+        "Swedish": "v\u00e4nd"
+    },
+    {
+        "English": "the air",
+        "Swedish": "luften"
+    },
+    {
+        "English": "breakfast",
+        "Swedish": "frukost"
+    },
+    {
+        "English": "Jane",
+        "Swedish": "jane"
+    },
+    {
+        "English": "plans",
+        "Swedish": "planer"
+    },
+    {
+        "English": "fuck",
+        "Swedish": "knulla"
+    },
+    {
+        "English": "monster",
+        "Swedish": "monster"
+    },
+    {
+        "English": "Twelve",
+        "Swedish": "tolv"
+    },
+    {
+        "English": "lead",
+        "Swedish": "leda"
+    },
+    {
+        "English": "point",
+        "Swedish": "po\u00e4ng"
+    },
+    {
+        "English": "hide",
+        "Swedish": "d\u00f6lja"
+    },
+    {
+        "English": "Crazy",
+        "Swedish": "galna"
+    },
+    {
+        "English": "brain",
+        "Swedish": "hj\u00e4rna"
+    },
+    {
+        "English": "hot",
+        "Swedish": "varm"
+    },
+    {
+        "English": "the goal",
+        "Swedish": "m\u00e5let"
+    },
+    {
+        "English": "the floor",
+        "Swedish": "golvet"
+    },
+    {
+        "English": "The light",
+        "Swedish": "ljuset"
+    },
+    {
+        "English": "The table",
+        "Swedish": "bordet"
+    },
+    {
+        "English": "honor",
+        "Swedish": "\u00e4ra"
+    },
+    {
+        "English": "Dar",
+        "Swedish": "dar"
+    },
+    {
+        "English": "Hell",
+        "Swedish": "helvetet"
+    },
+    {
+        "English": "leader",
+        "Swedish": "ledare"
+    },
+    {
+        "English": "pain",
+        "Swedish": "sm\u00e4rta"
+    },
+    {
+        "English": "satisfied",
+        "Swedish": "n\u00f6jd"
+    },
+    {
+        "English": "purely",
+        "Swedish": "rent"
+    },
+    {
+        "English": "laid",
+        "Swedish": "lagt"
+    },
+    {
+        "English": "Grace",
+        "Swedish": "n\u00e5d"
+    },
+    {
+        "English": "Eddie",
+        "Swedish": "eddie"
+    },
+    {
+        "English": "Reverse",
+        "Swedish": "backa"
+    },
+    {
+        "English": "run",
+        "Swedish": "k\u00f6rt"
+    },
+    {
+        "English": "earns",
+        "Swedish": "tj\u00e4nar"
+    },
+    {
+        "English": "written",
+        "Swedish": "skrivit"
+    },
+    {
+        "English": "exciting",
+        "Swedish": "sp\u00e4nnande"
+    },
+    {
+        "English": "Wow",
+        "Swedish": "wow"
+    },
+    {
+        "English": "definitely",
+        "Swedish": "definitivt"
+    },
+    {
+        "English": "Bobby",
+        "Swedish": "bobby"
+    },
+    {
+        "English": "Boat",
+        "Swedish": "b\u00e5t"
+    },
+    {
+        "English": "was born",
+        "Swedish": "f\u00f6ddes"
+    },
+    {
+        "English": "paper",
+        "Swedish": "papper"
+    },
+    {
+        "English": "the law",
+        "Swedish": "lagen"
+    },
+    {
+        "English": "difference",
+        "Swedish": "skillnad"
+    },
+    {
+        "English": "hospital",
+        "Swedish": "sjukhus"
+    },
+    {
+        "English": "break",
+        "Swedish": "bryta"
+    },
+    {
+        "English": "at the same time",
+        "Swedish": "samtidigt"
+    },
+    {
+        "English": "the years",
+        "Swedish": "\u00e5ren"
+    },
+    {
+        "English": "Drugs",
+        "Swedish": "droger"
+    },
+    {
+        "English": "Scott",
+        "Swedish": "scott"
+    },
+    {
+        "English": "manage",
+        "Swedish": "hantera"
+    },
+    {
+        "English": "to death",
+        "Swedish": "ihj\u00e4l"
+    },
+    {
+        "English": "refuses",
+        "Swedish": "v\u00e4grar"
+    },
+    {
+        "English": "kids",
+        "Swedish": "ungar"
+    },
+    {
+        "English": "The picture",
+        "Swedish": "bilden"
+    },
+    {
+        "English": "grandfather",
+        "Swedish": "farfar"
+    },
+    {
+        "English": "honestly",
+        "Swedish": "\u00e4rligt"
+    },
+    {
+        "English": "the prison",
+        "Swedish": "f\u00e4ngelset"
+    },
+    {
+        "English": "murdered",
+        "Swedish": "m\u00f6rdad"
+    },
+    {
+        "English": "searched",
+        "Swedish": "s\u00f6kte"
+    },
+    {
+        "English": "falling",
+        "Swedish": "faller"
+    },
+    {
+        "English": "flying",
+        "Swedish": "flyger"
+    },
+    {
+        "English": "dropped",
+        "Swedish": "tappat"
+    },
+    {
+        "English": "grandmother",
+        "Swedish": "farmor"
+    },
+    {
+        "English": "sing",
+        "Swedish": "sjunga"
+    },
+    {
+        "English": "horrible",
+        "Swedish": "hemska"
+    },
+    {
+        "English": "Sucks",
+        "Swedish": "suger"
+    },
+    {
+        "English": "second",
+        "Swedish": "sekund"
+    },
+    {
+        "English": "dived",
+        "Swedish": "d\u00f6k"
+    },
+    {
+        "English": "troops",
+        "Swedish": "soldater"
+    },
+    {
+        "English": "open",
+        "Swedish": "\u00f6ppet"
+    },
+    {
+        "English": "Manages",
+        "Swedish": "sk\u00f6ter"
+    },
+    {
+        "English": "Fate",
+        "Swedish": "\u00f6de"
+    },
+    {
+        "English": "rules",
+        "Swedish": "regler"
+    },
+    {
+        "English": "Award",
+        "Swedish": "pris"
+    },
+    {
+        "English": "Write",
+        "Swedish": "skriv"
+    },
+    {
+        "English": "translation",
+        "Swedish": "\u00f6vers\u00e4ttning"
+    },
+    {
+        "English": "cousin",
+        "Swedish": "kusin"
+    },
+    {
+        "English": "Paid",
+        "Swedish": "betalt"
+    },
+    {
+        "English": "explaining",
+        "Swedish": "f\u00f6rklarar"
+    },
+    {
+        "English": "kindly",
+        "Swedish": "sn\u00e4llt"
+    },
+    {
+        "English": "special",
+        "Swedish": "speciell"
+    },
+    {
+        "English": "American",
+        "Swedish": "amerikanska"
+    },
+    {
+        "English": "the people",
+        "Swedish": "m\u00e4nniskorna"
+    },
+    {
+        "English": "the dog",
+        "Swedish": "hunden"
+    },
+    {
+        "English": "hang",
+        "Swedish": "h\u00e4nga"
+    },
+    {
+        "English": "chuck",
+        "Swedish": "chuck"
+    },
+    {
+        "English": "Dives",
+        "Swedish": "dyker"
+    },
+    {
+        "English": "The kitchen",
+        "Swedish": "k\u00f6ket"
+    },
+    {
+        "English": "The window",
+        "Swedish": "f\u00f6nstret"
+    },
+    {
+        "English": "Shit",
+        "Swedish": "skitst\u00f6vel"
+    },
+    {
+        "English": "Lee",
+        "Swedish": "lee"
+    },
+    {
+        "English": "Claire",
+        "Swedish": "claire"
+    },
+    {
+        "English": "innocent",
+        "Swedish": "oskyldig"
+    },
+    {
+        "English": "hundred",
+        "Swedish": "hundra"
+    },
+    {
+        "English": "ended up",
+        "Swedish": "hamnade"
+    },
+    {
+        "English": "Charles",
+        "Swedish": "karl"
+    },
+    {
+        "English": "feeling",
+        "Swedish": "k\u00e4nsla"
+    },
+    {
+        "English": "threat",
+        "Swedish": "hot"
+    },
+    {
+        "English": "Care",
+        "Swedish": "bry"
+    },
+    {
+        "English": "farewell",
+        "Swedish": "farv\u00e4l"
+    },
+    {
+        "English": "Lady",
+        "Swedish": "dam"
+    },
+    {
+        "English": "hole",
+        "Swedish": "h\u00e5l"
+    },
+    {
+        "English": "college",
+        "Swedish": "college"
+    },
+    {
+        "English": "Checked",
+        "Swedish": "kollade"
+    },
+    {
+        "English": "lighter",
+        "Swedish": "l\u00e4ttare"
+    },
+    {
+        "English": "Shooted",
+        "Swedish": "skjuten"
+    },
+    {
+        "English": "cool",
+        "Swedish": "kallt"
+    },
+    {
+        "English": "gang",
+        "Swedish": "g\u00e4ng"
+    },
+    {
+        "English": "example",
+        "Swedish": "exempel"
+    },
+    {
+        "English": "strength",
+        "Swedish": "styrka"
+    },
+    {
+        "English": "eaten",
+        "Swedish": "\u00e4tit"
+    },
+    {
+        "English": "shoes",
+        "Swedish": "skor"
+    },
+    {
+        "English": "Ouch",
+        "Swedish": "aj"
+    },
+    {
+        "English": "Daddy",
+        "Swedish": "pappas"
+    },
+    {
+        "English": "the limit",
+        "Swedish": "gr\u00e4nsen"
+    },
+    {
+        "English": "teacher",
+        "Swedish": "l\u00e4rare"
+    },
+    {
+        "English": "damn",
+        "Swedish": "j\u00e4kla"
+    },
+    {
+        "English": "Robert",
+        "Swedish": "robert"
+    },
+    {
+        "English": "runs",
+        "Swedish": "springer"
+    },
+    {
+        "English": "forever",
+        "Swedish": "evigt"
+    },
+    {
+        "English": "hoped",
+        "Swedish": "hoppades"
+    },
+    {
+        "English": "steal",
+        "Swedish": "stj\u00e4la"
+    },
+    {
+        "English": "old man",
+        "Swedish": "gumman"
+    },
+    {
+        "English": "the rules",
+        "Swedish": "reglerna"
+    },
+    {
+        "English": "Rachel",
+        "Swedish": "rachel"
+    },
+    {
+        "English": "At",
+        "Swedish": "kl."
+    },
+    {
+        "English": "HORSE",
+        "Swedish": "h\u00e4st"
+    },
+    {
+        "English": "Kate",
+        "Swedish": "kate"
+    },
+    {
+        "English": "brothers",
+        "Swedish": "br\u00f6der"
+    },
+    {
+        "English": "discuss",
+        "Swedish": "diskutera"
+    },
+    {
+        "English": "Hiding",
+        "Swedish": "g\u00f6mmer"
+    },
+    {
+        "English": "funny",
+        "Swedish": "lustigt"
+    },
+    {
+        "English": "involved",
+        "Swedish": "inblandad"
+    },
+    {
+        "English": "Little",
+        "Swedish": "lille"
+    },
+    {
+        "English": "The answer",
+        "Swedish": "svaret"
+    },
+    {
+        "English": "cause",
+        "Swedish": "orsak"
+    },
+    {
+        "English": "The men",
+        "Swedish": "m\u00e4nnen"
+    },
+    {
+        "English": "cars",
+        "Swedish": "bilar"
+    },
+    {
+        "English": "Mom's",
+        "Swedish": "mammas"
+    },
+    {
+        "English": "proper",
+        "Swedish": "ordentligt"
+    },
+    {
+        "English": "Faster",
+        "Swedish": "snabbare"
+    },
+    {
+        "English": "turn",
+        "Swedish": "v\u00e4nda"
+    },
+    {
+        "English": "Dreams",
+        "Swedish": "dr\u00f6mmar"
+    },
+    {
+        "English": "Walter",
+        "Swedish": "walter"
+    },
+    {
+        "English": "present",
+        "Swedish": "presentera"
+    },
+    {
+        "English": "purchased",
+        "Swedish": "k\u00f6pt"
+    },
+    {
+        "English": "The government",
+        "Swedish": "regeringen"
+    },
+    {
+        "English": "suicide",
+        "Swedish": "sj\u00e4lvmord"
+    },
+    {
+        "English": "Kevin",
+        "Swedish": "kevin"
+    },
+    {
+        "English": "return",
+        "Swedish": "\u00e5terv\u00e4nda"
+    },
+    {
+        "English": "Washington",
+        "Swedish": "washington"
+    },
+    {
+        "English": "lonely",
+        "Swedish": "ensamma"
+    },
+    {
+        "English": "Rich",
+        "Swedish": "rik"
+    },
+    {
+        "English": "form",
+        "Swedish": "form"
+    },
+    {
+        "English": "America",
+        "Swedish": "amerika"
+    },
+    {
+        "English": "protects",
+        "Swedish": "skyddar"
+    },
+    {
+        "English": "Adam",
+        "Swedish": "adam"
+    },
+    {
+        "English": "gold",
+        "Swedish": "guld"
+    },
+    {
+        "English": "The list",
+        "Swedish": "listan"
+    },
+    {
+        "English": "Police",
+        "Swedish": "poliser"
+    },
+    {
+        "English": "memory",
+        "Swedish": "minne"
+    },
+    {
+        "English": "relationship",
+        "Swedish": "relation"
+    },
+    {
+        "English": "The hotel",
+        "Swedish": "hotellet"
+    },
+    {
+        "English": "verify",
+        "Swedish": "kontrollera"
+    },
+    {
+        "English": "hunting",
+        "Swedish": "jagar"
+    },
+    {
+        "English": "The roof",
+        "Swedish": "taket"
+    },
+    {
+        "English": "bite",
+        "Swedish": "bett"
+    },
+    {
+        "English": "hunt",
+        "Swedish": "jaga"
+    },
+    {
+        "English": "Pieces",
+        "Swedish": "stycken"
+    },
+    {
+        "English": "Slips",
+        "Swedish": "slipper"
+    },
+    {
+        "English": "t",
+        "Swedish": "t"
+    },
+    {
+        "English": "Driver",
+        "Swedish": "driver"
+    },
+    {
+        "English": "date",
+        "Swedish": "dejt"
+    },
+    {
+        "English": "healthy",
+        "Swedish": "frisk"
+    },
+    {
+        "English": "Amy",
+        "Swedish": "amy"
+    },
+    {
+        "English": "The wall",
+        "Swedish": "v\u00e4ggen"
+    },
+    {
+        "English": "wedding",
+        "Swedish": "br\u00f6llop"
+    },
+    {
+        "English": "Jerry",
+        "Swedish": "jerry"
+    },
+    {
+        "English": "Street",
+        "Swedish": "street"
+    },
+    {
+        "English": "Arthur",
+        "Swedish": "arthur"
+    },
+    {
+        "English": "percent",
+        "Swedish": "procent"
+    },
+    {
+        "English": "throat",
+        "Swedish": "halsen"
+    },
+    {
+        "English": "disappear",
+        "Swedish": "f\u00f6rsvinna"
+    },
+    {
+        "English": "Andy",
+        "Swedish": "andy"
+    },
+    {
+        "English": "Desto",
+        "Swedish": "desto"
+    },
+    {
+        "English": "forces",
+        "Swedish": "krafter"
+    },
+    {
+        "English": "the person",
+        "Swedish": "personen"
+    },
+    {
+        "English": "teeth",
+        "Swedish": "t\u00e4nder"
+    },
+    {
+        "English": "dangerous",
+        "Swedish": "farlig"
+    },
+    {
+        "English": "finished",
+        "Swedish": "f\u00e4rdig"
+    },
+    {
+        "English": "meat",
+        "Swedish": "k\u00f6tt"
+    },
+    {
+        "English": "Eric",
+        "Swedish": "eric"
+    },
+    {
+        "English": "The army",
+        "Swedish": "arm\u00e9n"
+    },
+    {
+        "English": "peacefully",
+        "Swedish": "ifred"
+    },
+    {
+        "English": "common",
+        "Swedish": "vanlig"
+    },
+    {
+        "English": "Lived",
+        "Swedish": "levde"
+    },
+    {
+        "English": "Thus",
+        "Swedish": "tusan"
+    },
+    {
+        "English": "rear",
+        "Swedish": "bak"
+    },
+    {
+        "English": "paid",
+        "Swedish": "betalade"
+    },
+    {
+        "English": "Gift",
+        "Swedish": "g\u00e5va"
+    },
+    {
+        "English": "truth",
+        "Swedish": "sanning"
+    },
+    {
+        "English": "km",
+        "Swedish": "km"
+    },
+    {
+        "English": "England",
+        "Swedish": "england"
+    },
+    {
+        "English": "fired",
+        "Swedish": "sparken"
+    },
+    {
+        "English": "whose",
+        "Swedish": "vems"
+    },
+    {
+        "English": "mobile",
+        "Swedish": "mobil"
+    },
+    {
+        "English": "Matt",
+        "Swedish": "matt"
+    },
+    {
+        "English": "Sold",
+        "Swedish": "s\u00e5lde"
+    },
+    {
+        "English": "the mouth",
+        "Swedish": "munnen"
+    },
+    {
+        "English": "ignore",
+        "Swedish": "struntar"
+    },
+    {
+        "English": "concerning",
+        "Swedish": "ang\u00e5ende"
+    },
+    {
+        "English": "destroyed",
+        "Swedish": "f\u00f6rst\u00f6rde"
+    },
+    {
+        "English": "computer",
+        "Swedish": "dator"
+    },
+    {
+        "English": "grew",
+        "Swedish": "v\u00e4xte"
+    },
+    {
+        "English": "the beach",
+        "Swedish": "stranden"
+    },
+    {
+        "English": "Ryan",
+        "Swedish": "ryan"
+    },
+    {
+        "English": "Hotel",
+        "Swedish": "hotell"
+    },
+    {
+        "English": "Cool",
+        "Swedish": "coolt"
+    },
+    {
+        "English": "sergeant",
+        "Swedish": "sergeant"
+    },
+    {
+        "English": "engages",
+        "Swedish": "sysslar"
+    },
+    {
+        "English": "Carter",
+        "Swedish": "carter"
+    },
+    {
+        "English": "Laws",
+        "Swedish": "lagar"
+    },
+    {
+        "English": "Alan",
+        "Swedish": "alan"
+    },
+    {
+        "English": "magic",
+        "Swedish": "magi"
+    },
+    {
+        "English": "The meeting",
+        "Swedish": "m\u00f6tet"
+    },
+    {
+        "English": "prefer",
+        "Swedish": "f\u00f6redrar"
+    },
+    {
+        "English": "the camera",
+        "Swedish": "kameran"
+    },
+    {
+        "English": "The train",
+        "Swedish": "t\u00e5get"
+    },
+    {
+        "English": "similar",
+        "Swedish": "liknande"
+    },
+    {
+        "English": "swine",
+        "Swedish": "svin"
+    },
+    {
+        "English": "socialize",
+        "Swedish": "umg\u00e5s"
+    },
+    {
+        "English": "battle",
+        "Swedish": "strid"
+    },
+    {
+        "English": "Island",
+        "Swedish": "\u00f6n"
+    },
+    {
+        "English": "print",
+        "Swedish": "tryck"
+    },
+    {
+        "English": "medicine",
+        "Swedish": "medicin"
+    },
+    {
+        "English": "Kyle",
+        "Swedish": "kyle"
+    },
+    {
+        "English": "the game",
+        "Swedish": "spelet"
+    },
+    {
+        "English": "Carefully",
+        "Swedish": "noga"
+    },
+    {
+        "English": "Brian",
+        "Swedish": "brian"
+    },
+    {
+        "English": "awake",
+        "Swedish": "vaken"
+    },
+    {
+        "English": "slowly",
+        "Swedish": "sakta"
+    },
+    {
+        "English": "Secrets",
+        "Swedish": "hemligheter"
+    },
+    {
+        "English": "San.",
+        "Swedish": "san"
+    },
+    {
+        "English": "ed",
+        "Swedish": "red"
+    },
+    {
+        "English": "The match",
+        "Swedish": "matchen"
+    },
+    {
+        "English": "reaches",
+        "Swedish": "n\u00e5r"
+    },
+    {
+        "English": "celebrate",
+        "Swedish": "fira"
+    },
+    {
+        "English": "books",
+        "Swedish": "b\u00f6cker"
+    },
+    {
+        "English": "lieutenant",
+        "Swedish": "l\u00f6jtnant"
+    },
+    {
+        "English": "Similar to it",
+        "Swedish": "liknar"
+    },
+    {
+        "English": "connect",
+        "Swedish": "koppla"
+    },
+    {
+        "English": "minimum",
+        "Swedish": "minsta"
+    },
+    {
+        "English": "text",
+        "Swedish": "text"
+    },
+    {
+        "English": "mouth",
+        "Swedish": "mun"
+    },
+    {
+        "English": "tree",
+        "Swedish": "tr\u00e4d"
+    },
+    {
+        "English": "bring",
+        "Swedish": "f\u00f6ra"
+    },
+    {
+        "English": "offered",
+        "Swedish": "bj\u00f6d"
+    },
+    {
+        "English": "The legs",
+        "Swedish": "benen"
+    },
+    {
+        "English": "an",
+        "Swedish": "an"
+    },
+    {
+        "English": "weekend",
+        "Swedish": "helgen"
+    },
+    {
+        "English": "the brain",
+        "Swedish": "hj\u00e4rnan"
+    },
+    {
+        "English": "scaring",
+        "Swedish": "skr\u00e4mmer"
+    },
+    {
+        "English": "admit",
+        "Swedish": "erk\u00e4nna"
+    },
+    {
+        "English": "smile",
+        "Swedish": "le"
+    },
+    {
+        "English": "Breaking",
+        "Swedish": "bryter"
+    },
+    {
+        "English": "protection",
+        "Swedish": "skydd"
+    },
+    {
+        "English": "Alice",
+        "Swedish": "alice"
+    },
+    {
+        "English": "soldier",
+        "Swedish": "soldat"
+    },
+    {
+        "English": "career",
+        "Swedish": "karri\u00e4r"
+    },
+    {
+        "English": "the building",
+        "Swedish": "byggnaden"
+    },
+    {
+        "English": "the right",
+        "Swedish": "r\u00e4tten"
+    },
+    {
+        "English": "traveling",
+        "Swedish": "reser"
+    },
+    {
+        "English": "the river",
+        "Swedish": "floden"
+    },
+    {
+        "English": "considers",
+        "Swedish": "anser"
+    },
+    {
+        "English": "Koll",
+        "Swedish": "koll"
+    },
+    {
+        "English": "dress",
+        "Swedish": "kl\u00e4"
+    },
+    {
+        "English": "sir",
+        "Swedish": "herrn"
+    },
+    {
+        "English": "million",
+        "Swedish": "miljon"
+    },
+    {
+        "English": "Yeah",
+        "Swedish": "japp"
+    },
+    {
+        "English": "The station",
+        "Swedish": "stationen"
+    },
+    {
+        "English": "Ride",
+        "Swedish": "\u00e5kt"
+    },
+    {
+        "English": "laugh",
+        "Swedish": "skratta"
+    },
+    {
+        "English": "search",
+        "Swedish": "s\u00f6ka"
+    },
+    {
+        "English": "the band",
+        "Swedish": "bandet"
+    },
+    {
+        "English": "Simon",
+        "Swedish": "simon"
+    },
+    {
+        "English": "Evil",
+        "Swedish": "onda"
+    },
+    {
+        "English": "freedom",
+        "Swedish": "frihet"
+    },
+    {
+        "English": "private",
+        "Swedish": "privat"
+    },
+    {
+        "English": "loose",
+        "Swedish": "loss"
+    },
+    {
+        "English": "taxi",
+        "Swedish": "taxi"
+    },
+    {
+        "English": "d",
+        "Swedish": "d"
+    },
+    {
+        "English": "The bag",
+        "Swedish": "v\u00e4skan"
+    },
+    {
+        "English": "created",
+        "Swedish": "skapade"
+    },
+    {
+        "English": "Ted",
+        "Swedish": "ted"
+    },
+    {
+        "English": "Laughing",
+        "Swedish": "skrattar"
+    },
+    {
+        "English": "survives",
+        "Swedish": "\u00f6verlever"
+    },
+    {
+        "English": "attention",
+        "Swedish": "uppm\u00e4rksamhet"
+    },
+    {
+        "English": "fool",
+        "Swedish": "lura"
+    },
+    {
+        "English": "suggestions",
+        "Swedish": "f\u00f6rslag"
+    },
+    {
+        "English": "the thing",
+        "Swedish": "grejen"
+    },
+    {
+        "English": "visible",
+        "Swedish": "syns"
+    },
+    {
+        "English": "weird",
+        "Swedish": "konstig"
+    },
+    {
+        "English": "changed",
+        "Swedish": "f\u00f6r\u00e4ndrats"
+    },
+    {
+        "English": "marriage",
+        "Swedish": "\u00e4ktenskap"
+    },
+    {
+        "English": "stronger",
+        "Swedish": "starkare"
+    },
+    {
+        "English": "test",
+        "Swedish": "testa"
+    },
+    {
+        "English": "The sheriff",
+        "Swedish": "sheriffen"
+    },
+    {
+        "English": "in a hurry",
+        "Swedish": "br\u00e5ttom"
+    },
+    {
+        "English": "sweetheart",
+        "Swedish": "s\u00f6tnos"
+    },
+    {
+        "English": "door",
+        "Swedish": "d\u00f6rr"
+    },
+    {
+        "English": "Jason",
+        "Swedish": "jason"
+    },
+    {
+        "English": "Emma",
+        "Swedish": "emma"
+    },
+    {
+        "English": "whore",
+        "Swedish": "hora"
+    },
+    {
+        "English": "Solves",
+        "Swedish": "l\u00f6ser"
+    },
+    {
+        "English": "The hair",
+        "Swedish": "h\u00e5ret"
+    },
+    {
+        "English": "fish",
+        "Swedish": "fisk"
+    },
+    {
+        "English": "recently",
+        "Swedish": "nyligen"
+    },
+    {
+        "English": "Jumps",
+        "Swedish": "hoppar"
+    },
+    {
+        "English": "the store",
+        "Swedish": "aff\u00e4ren"
+    },
+    {
+        "English": "hinder",
+        "Swedish": "hindra"
+    },
+    {
+        "English": "prisoners",
+        "Swedish": "f\u00e5ngar"
+    },
+    {
+        "English": "Hey",
+        "Swedish": "tjena"
+    },
+    {
+        "English": "William",
+        "Swedish": "william"
+    },
+    {
+        "English": "ice",
+        "Swedish": "is"
+    },
+    {
+        "English": "Wake up",
+        "Swedish": "vaknar"
+    },
+    {
+        "English": "Dave",
+        "Swedish": "dave"
+    },
+    {
+        "English": "the blood",
+        "Swedish": "blodet"
+    },
+    {
+        "English": "kiss",
+        "Swedish": "kyss"
+    },
+    {
+        "English": "benefit",
+        "Swedish": "nytta"
+    },
+    {
+        "English": "cry",
+        "Swedish": "gr\u00e5ta"
+    },
+    {
+        "English": "Phil",
+        "Swedish": "phil"
+    },
+    {
+        "English": "the skull",
+        "Swedish": "skallen"
+    },
+    {
+        "English": "highest",
+        "Swedish": "h\u00f6gsta"
+    },
+    {
+        "English": "situation",
+        "Swedish": "situation"
+    },
+    {
+        "English": "gift",
+        "Swedish": "present"
+    },
+    {
+        "English": "Gypsy",
+        "Swedish": "rom"
+    },
+    {
+        "English": "released",
+        "Swedish": "sl\u00e4ppte"
+    },
+    {
+        "English": "worrier",
+        "Swedish": "oroar"
+    },
+    {
+        "English": "approaching",
+        "Swedish": "n\u00e4rmar"
+    },
+    {
+        "English": "The bus",
+        "Swedish": "bussen"
+    },
+    {
+        "English": "proposes",
+        "Swedish": "f\u00f6resl\u00e5r"
+    },
+    {
+        "English": "air",
+        "Swedish": "luft"
+    },
+    {
+        "English": "bag",
+        "Swedish": "v\u00e4ska"
+    },
+    {
+        "English": "mile",
+        "Swedish": "mil"
+    },
+    {
+        "English": "thousands of",
+        "Swedish": "tusentals"
+    },
+    {
+        "English": "egg",
+        "Swedish": "\u00e4gg"
+    },
+    {
+        "English": "the bank",
+        "Swedish": "banken"
+    },
+    {
+        "English": "debt",
+        "Swedish": "skuld"
+    },
+    {
+        "English": "olives",
+        "Swedish": "oliver"
+    },
+    {
+        "English": "Sara",
+        "Swedish": "sara"
+    },
+    {
+        "English": "Pete",
+        "Swedish": "pete"
+    },
+    {
+        "English": "avoid",
+        "Swedish": "slippa"
+    },
+    {
+        "English": "support",
+        "Swedish": "st\u00f6d"
+    },
+    {
+        "English": "Memories",
+        "Swedish": "minnen"
+    },
+    {
+        "English": "determine",
+        "Swedish": "best\u00e4mma"
+    },
+    {
+        "English": "suspected",
+        "Swedish": "misst\u00e4nkt"
+    },
+    {
+        "English": "The trip",
+        "Swedish": "resan"
+    },
+    {
+        "English": "opportunity",
+        "Swedish": "tillf\u00e4lle"
+    },
+    {
+        "English": "The price",
+        "Swedish": "priset"
+    },
+    {
+        "English": "Sent",
+        "Swedish": "skickat"
+    },
+    {
+        "English": "quit",
+        "Swedish": "slutat"
+    },
+    {
+        "English": "table",
+        "Swedish": "bord"
+    },
+    {
+        "English": "the victim",
+        "Swedish": "offret"
+    },
+    {
+        "English": "miss",
+        "Swedish": "sakna"
+    },
+    {
+        "English": "via",
+        "Swedish": "via"
+    },
+    {
+        "English": "the newspaper",
+        "Swedish": "tidningen"
+    },
+    {
+        "English": "Foot",
+        "Swedish": "fot"
+    },
+    {
+        "English": "mentioned",
+        "Swedish": "n\u00e4mnde"
+    },
+    {
+        "English": "The team",
+        "Swedish": "laget"
+    },
+    {
+        "English": "oath",
+        "Swedish": "ed"
+    },
+    {
+        "English": "disappointed",
+        "Swedish": "besviken"
+    },
+    {
+        "English": "the conversation",
+        "Swedish": "samtalet"
+    },
+    {
+        "English": "violence",
+        "Swedish": "v\u00e5ld"
+    },
+    {
+        "English": "collect",
+        "Swedish": "samla"
+    },
+    {
+        "English": "Back",
+        "Swedish": "tillbaks"
+    },
+    {
+        "English": "enemies",
+        "Swedish": "fiender"
+    },
+    {
+        "English": "RED",
+        "Swedish": "r\u00f6d"
+    },
+    {
+        "English": "birthday",
+        "Swedish": "f\u00f6delsedag"
+    },
+    {
+        "English": "Leo",
+        "Swedish": "leo"
+    },
+    {
+        "English": "Everything",
+        "Swedish": "alltihop"
+    },
+    {
+        "English": "Emily",
+        "Swedish": "emily"
+    },
+    {
+        "English": "Joey",
+        "Swedish": "joey"
+    },
+    {
+        "English": "agreement",
+        "Swedish": "avtal"
+    },
+    {
+        "English": "reminds",
+        "Swedish": "p\u00e5minner"
+    },
+    {
+        "English": "the toilet",
+        "Swedish": "toaletten"
+    },
+    {
+        "English": "contact",
+        "Swedish": "kontakta"
+    },
+    {
+        "English": "All",
+        "Swedish": "allihopa"
+    },
+    {
+        "English": "feet",
+        "Swedish": "f\u00f6tter"
+    },
+    {
+        "English": "P\u00e2",
+        "Swedish": "p\u00e2"
+    },
+    {
+        "English": "If",
+        "Swedish": "ifall"
+    },
+    {
+        "English": "fact",
+        "Swedish": "faktum"
+    },
+    {
+        "English": "Strong",
+        "Swedish": "starka"
+    },
+    {
+        "English": "class",
+        "Swedish": "klass"
+    },
+    {
+        "English": "cock",
+        "Swedish": "kuk"
+    },
+    {
+        "English": "Most important",
+        "Swedish": "viktigaste"
+    },
+    {
+        "English": "drank",
+        "Swedish": "drack"
+    },
+    {
+        "English": "returns",
+        "Swedish": "\u00e5terv\u00e4nder"
+    },
+    {
+        "English": "responsible",
+        "Swedish": "ansvarig"
+    },
+    {
+        "English": "Don",
+        "Swedish": "don"
+    },
+    {
+        "English": "the system",
+        "Swedish": "systemet"
+    },
+    {
+        "English": "Stone",
+        "Swedish": "sten"
+    },
+    {
+        "English": "jumped",
+        "Swedish": "hoppade"
+    },
+    {
+        "English": "position",
+        "Swedish": "position"
+    },
+    {
+        "English": "Closes",
+        "Swedish": "st\u00e4nger"
+    },
+    {
+        "English": "Long",
+        "Swedish": "l\u00e5nga"
+    },
+    {
+        "English": "places",
+        "Swedish": "platser"
+    },
+    {
+        "English": "The assignment",
+        "Swedish": "uppdraget"
+    },
+    {
+        "English": "the darkness",
+        "Swedish": "m\u00f6rkret"
+    },
+    {
+        "English": "notch",
+        "Swedish": "sk\u00e4r"
+    },
+    {
+        "English": "creates",
+        "Swedish": "skapar"
+    },
+    {
+        "English": "DNA",
+        "Swedish": "dna"
+    },
+    {
+        "English": "r",
+        "Swedish": "r"
+    },
+    {
+        "English": "vacation",
+        "Swedish": "semester"
+    },
+    {
+        "English": "tough",
+        "Swedish": "tuff"
+    },
+    {
+        "English": "Luke",
+        "Swedish": "luke"
+    },
+    {
+        "English": "address",
+        "Swedish": "adress"
+    },
+    {
+        "English": "Lily",
+        "Swedish": "lily"
+    },
+    {
+        "English": "scared",
+        "Swedish": "skr\u00e4mde"
+    },
+    {
+        "English": "access",
+        "Swedish": "tillg\u00e5ng"
+    },
+    {
+        "English": "The keys",
+        "Swedish": "nycklarna"
+    },
+    {
+        "English": "throws",
+        "Swedish": "kastar"
+    },
+    {
+        "English": "counts",
+        "Swedish": "r\u00e4knar"
+    },
+    {
+        "English": "fear",
+        "Swedish": "r\u00e4dsla"
+    },
+    {
+        "English": "good enough",
+        "Swedish": "duger"
+    },
+    {
+        "English": "The bar",
+        "Swedish": "baren"
+    },
+    {
+        "English": "wondered",
+        "Swedish": "undrade"
+    },
+    {
+        "English": "afternoon",
+        "Swedish": "eftermiddag"
+    },
+    {
+        "English": "pleasure",
+        "Swedish": "n\u00f6je"
+    },
+    {
+        "English": "Dark",
+        "Swedish": "m\u00f6rkt"
+    },
+    {
+        "English": "match",
+        "Swedish": "match"
+    },
+    {
+        "English": "France",
+        "Swedish": "frankrike"
+    },
+    {
+        "English": "the company",
+        "Swedish": "f\u00f6retaget"
+    },
+    {
+        "English": "Army",
+        "Swedish": "arm\u00e9"
+    },
+    {
+        "English": "Grows",
+        "Swedish": "v\u00e4xer"
+    },
+    {
+        "English": "difficult",
+        "Swedish": "sv\u00e5r"
+    },
+    {
+        "English": "replied",
+        "Swedish": "svarade"
+    },
+    {
+        "English": "Misses",
+        "Swedish": "missar"
+    },
+    {
+        "English": "ability",
+        "Swedish": "m\u00f6jlighet"
+    },
+    {
+        "English": "Dogs",
+        "Swedish": "hundar"
+    },
+    {
+        "English": "energy",
+        "Swedish": "energi"
+    },
+    {
+        "English": "That's how",
+        "Swedish": "s\u00e5d\u00e4r"
+    },
+    {
+        "English": "professor",
+        "Swedish": "professor"
+    },
+    {
+        "English": "builds",
+        "Swedish": "bygger"
+    },
+    {
+        "English": "missed",
+        "Swedish": "saknat"
+    },
+    {
+        "English": "The days",
+        "Swedish": "dagarna"
+    },
+    {
+        "English": "accept",
+        "Swedish": "acceptera"
+    },
+    {
+        "English": "cheated",
+        "Swedish": "lurade"
+    },
+    {
+        "English": "duck",
+        "Swedish": "and"
+    },
+    {
+        "English": "wash",
+        "Swedish": "tv\u00e4tta"
+    },
+    {
+        "English": "Ideas",
+        "Swedish": "id\u00e9er"
+    },
+    {
+        "English": "Me",
+        "Swedish": "mej"
+    },
+    {
+        "English": "ridiculously",
+        "Swedish": "l\u00f6jligt"
+    },
+    {
+        "English": "pick",
+        "Swedish": "plocka"
+    },
+    {
+        "English": "Lisa",
+        "Swedish": "lisa"
+    },
+    {
+        "English": "Pared",
+        "Swedish": "st\u00e4llde"
+    },
+    {
+        "English": "Surprised",
+        "Swedish": "f\u00f6rv\u00e5nad"
+    },
+    {
+        "English": "High",
+        "Swedish": "high"
+    },
+    {
+        "English": "The number",
+        "Swedish": "numret"
+    },
+    {
+        "English": "Majesty",
+        "Swedish": "majest\u00e4t"
+    },
+    {
+        "English": "eh",
+        "Swedish": "eh"
+    },
+    {
+        "English": "Looked",
+        "Swedish": "letat"
+    },
+    {
+        "English": "defend",
+        "Swedish": "f\u00f6rsvara"
+    },
+    {
+        "English": "Personal",
+        "Swedish": "personligt"
+    },
+    {
+        "English": "imagine",
+        "Swedish": "f\u00f6rest\u00e4lla"
+    },
+    {
+        "English": "tossed",
+        "Swedish": "kastade"
+    },
+    {
+        "English": "control",
+        "Swedish": "styr"
+    },
+    {
+        "English": "weak",
+        "Swedish": "svag"
+    },
+    {
+        "English": "arm",
+        "Swedish": "arm"
+    },
+    {
+        "English": "Stopping",
+        "Swedish": "stoppar"
+    },
+    {
+        "English": "Secret",
+        "Swedish": "hemliga"
+    },
+    {
+        "English": "Judge",
+        "Swedish": "domare"
+    },
+    {
+        "English": "Flowers",
+        "Swedish": "blommor"
+    },
+    {
+        "English": "reveal",
+        "Swedish": "avsl\u00f6ja"
+    },
+    {
+        "English": "afterwards",
+        "Swedish": "efter\u00e5t"
+    },
+    {
+        "English": "The kids",
+        "Swedish": "ungarna"
+    },
+    {
+        "English": "The ring",
+        "Swedish": "ringen"
+    },
+    {
+        "English": "the work",
+        "Swedish": "arbetet"
+    },
+    {
+        "English": "st",
+        "Swedish": "st"
+    },
+    {
+        "English": "toxins",
+        "Swedish": "gifter"
+    },
+    {
+        "English": "sings",
+        "Swedish": "sjunger"
+    },
+    {
+        "English": "Woke up",
+        "Swedish": "vaknade"
+    },
+    {
+        "English": "Carl",
+        "Swedish": "carl"
+    },
+    {
+        "English": "traded",
+        "Swedish": "handlade"
+    },
+    {
+        "English": "Today's",
+        "Swedish": "dagens"
+    },
+    {
+        "English": "Things",
+        "Swedish": "sakerna"
+    },
+    {
+        "English": "taste",
+        "Swedish": "smaka"
+    },
+    {
+        "English": "rich",
+        "Swedish": "rika"
+    },
+    {
+        "English": "The girls",
+        "Swedish": "flickorna"
+    },
+    {
+        "English": "end up",
+        "Swedish": "hamna"
+    },
+    {
+        "English": "Fast",
+        "Swedish": "snabba"
+    },
+    {
+        "English": "trap",
+        "Swedish": "f\u00e4lla"
+    },
+    {
+        "English": "style",
+        "Swedish": "stil"
+    },
+    {
+        "English": "Disresent",
+        "Swedish": "avskyr"
+    },
+    {
+        "English": "Pass",
+        "Swedish": "pass"
+    },
+    {
+        "English": "client",
+        "Swedish": "klient"
+    },
+    {
+        "English": "SMS",
+        "Swedish": "sms"
+    },
+    {
+        "English": "the love",
+        "Swedish": "k\u00e4rleken"
+    },
+    {
+        "English": "Flew",
+        "Swedish": "fl\u00f6g"
+    },
+    {
+        "English": "turns",
+        "Swedish": "v\u00e4nder"
+    },
+    {
+        "English": "Holy",
+        "Swedish": "heliga"
+    },
+    {
+        "English": "focus",
+        "Swedish": "fokusera"
+    },
+    {
+        "English": "Silent",
+        "Swedish": "tysta"
+    },
+    {
+        "English": "elsewhere",
+        "Swedish": "annanstans"
+    },
+    {
+        "English": "the enemy",
+        "Swedish": "fienden"
+    },
+    {
+        "English": "Queen",
+        "Swedish": "drottning"
+    },
+    {
+        "English": "kilometer",
+        "Swedish": "kilometer"
+    },
+    {
+        "English": "Jackson",
+        "Swedish": "jackson"
+    },
+    {
+        "English": "Idiots",
+        "Swedish": "idioter"
+    },
+    {
+        "English": "lock",
+        "Swedish": "l\u00e5s"
+    },
+    {
+        "English": "El",
+        "Swedish": "el"
+    },
+    {
+        "English": "cries",
+        "Swedish": "gr\u00e5ter"
+    },
+    {
+        "English": "breast",
+        "Swedish": "br\u00f6st"
+    },
+    {
+        "English": "The club",
+        "Swedish": "klubben"
+    },
+    {
+        "English": "plus",
+        "Swedish": "plus"
+    },
+    {
+        "English": "Lucy",
+        "Swedish": "lucy"
+    },
+    {
+        "English": "Hann",
+        "Swedish": "hann"
+    },
+    {
+        "English": "revenge",
+        "Swedish": "h\u00e4mnd"
+    },
+    {
+        "English": "Sick",
+        "Swedish": "sjuka"
+    },
+    {
+        "English": "report",
+        "Swedish": "rapport"
+    },
+    {
+        "English": "system",
+        "Swedish": "system"
+    },
+    {
+        "English": "Jones",
+        "Swedish": "jones"
+    },
+    {
+        "English": "Justice",
+        "Swedish": "r\u00e4ttvisa"
+    },
+    {
+        "English": "assistant",
+        "Swedish": "assistent"
+    },
+    {
+        "English": "enemy",
+        "Swedish": "fiende"
+    },
+    {
+        "English": "los",
+        "Swedish": "los"
+    },
+    {
+        "English": "The ball",
+        "Swedish": "bollen"
+    },
+    {
+        "English": "Morgan",
+        "Swedish": "morgan"
+    }
+]

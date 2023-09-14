@@ -9,7 +9,7 @@ def from_rgb(rgb: tuple):
     """translates an rgb tuple of int to a tkinter friendly color code
     """
     return "#%02x%02x%02x" % rgb
-
+# print(from_rgb((123,13,123)))
 label["foreground"] = from_rgb((123,13,123))
 label.pack()
 

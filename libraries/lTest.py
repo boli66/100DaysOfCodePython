@@ -1,5 +1,9 @@
 import l
 
-constant = l.const("ss")
+d = {
+    "Hello": "Greetings traveler.",
+    "list": ["BBC", "DDC"],
+    "dict": {"BBD": "British Brats dictionary", "DD": "Didi Kong", "ss": ["dd", "ss"]}
+}
 
-print(constant())
+print(l.formatDict(d))

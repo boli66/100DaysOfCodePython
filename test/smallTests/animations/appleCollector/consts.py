@@ -1,0 +1,2 @@
+FRAMESPEED = 100
+second = 1000

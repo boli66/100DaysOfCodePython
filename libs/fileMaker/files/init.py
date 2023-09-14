@@ -42,7 +42,7 @@ with open("path.py", "w") as f:
     lines = [f"{line}\n" for line in lines]
     f.writelines(lines)
 
-with open("main.py","w") as f:
+with open("mains.py","w") as f:
     lines = [
         "import path",
         "# Put your code here"

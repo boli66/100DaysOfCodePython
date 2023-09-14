@@ -6,7 +6,7 @@ data_dict = {
 }
 
 data = pandas.DataFrame(data_dict)
-#data.to_csv("dd.csv")
+#data.to_csv("example.csv")
 
 data = pandas.read_csv("dd.csv")
 print(data)
