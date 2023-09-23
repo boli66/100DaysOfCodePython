@@ -3,7 +3,7 @@ import smtplib
 
 from emailMaker import Email
 def getQuot():
-    with open("quotes.txt") as f:
+    with open("weeklyQuotes/quotes.txt") as f:
         quotes = f.read().split("\n")
     return random.choice(quotes)
 

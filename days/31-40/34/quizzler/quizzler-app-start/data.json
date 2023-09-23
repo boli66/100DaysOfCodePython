@@ -1,0 +1,38 @@
+[
+    {
+        "question": "Are apples green.",
+        "correct_answer": "True"
+    },
+    {
+        "question": "Is tilted tower tilted.",
+        "correct_answer": "True"
+    },
+    {
+        "question": "Does leave for milk mean he never comes back?",
+        "correct_answer": "True"
+    },
+    {
+        "question": "Are you offended by this quiz",
+        "correct_answer": "False"
+    },
+    {
+        "question": "Does a car have 5 wheels",
+        "correct_answer": "False"
+    },
+    {
+        "question": "Does js stand for java syntax",
+        "correct_answer": "False"
+    },
+    {
+        "question": "Does the athor have a ps4",
+        "correct_answer": "True"
+    },
+    {
+        "question": "Is a human white",
+        "correct_answer": "True"
+    },
+    {
+        "question": "Is an alien black",
+        "correct_answer": "True"
+    }
+]

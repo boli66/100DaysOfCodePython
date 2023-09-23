@@ -1,0 +1,5 @@
+[
+  {"name": "Mom", "email": "lisaorr@live.se", "birthday": {"year": 1971 ,"month": 5, "day": 27}},
+  {"name": "Dad", "email":  "roger.orr@live.se", "birthday":  {"year":  1970, "month":  12, "day": 2}},
+  {"name": "Leo", "email":  "leo@orr.nu", "birthday":  {"year":  2012, "month": 1, "day": 15}}
+]

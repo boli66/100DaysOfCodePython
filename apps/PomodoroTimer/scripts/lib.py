@@ -1,7 +1,7 @@
 FONT = ("arial", 18, "bold")
 CHECKMARK = "✓"
 CHECKMARKFONT = ("arial", 20, "bold")
-SECOND = 1000
+SECOND = 10
 
 PINK = "#e2979c"
 RED = "#e7305b"
